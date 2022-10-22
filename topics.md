@@ -80,7 +80,6 @@
 - [iloldeGitHub/Mianliu-809](https://github.com/iloldeGitHub/Mianliu-809) - 关于最近的手机电视809免流
 - [577fkj/mimotion](https://github.com/577fkj/mimotion) - 小米运动刷步数
 - [DoveBoy/Vmess-Actions](https://github.com/DoveBoy/Vmess-Actions) - 
-- [lizisan/Free-Proxies](https://github.com/lizisan/Free-Proxies) - 代理池与订阅转换器网址合集
 - [zhonghuaifang/My-Actions](https://github.com/zhonghuaifang/My-Actions) - （签到项目备份，自用，加入了cqhttp通知，修复b站签到报错，修复小米运动上传之后不能同步到微信运动）爱奇艺会员签到抽奖,腾讯视频会员签到,哔哩哔哩签到,中国电信签到,V2ex签到,哔咔漫画签到,百度贴吧自动签到
 - [live2364li/sub-web-modify](https://github.com/live2364li/sub-web-modify) - 最美订阅转换前端，UI大改，增加近百条远程配置！
 - [750421628/39shouting](https://github.com/750421628/39shouting) - 联通挂机任务积分脚本
