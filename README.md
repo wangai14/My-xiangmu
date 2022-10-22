@@ -71,7 +71,6 @@
 - [msechen/script](https://github.com/msechen/script) - 偷撸
 - [mmmdbybyd/Xray-809](https://github.com/mmmdbybyd/Xray-809) - 可用于联通809免流的Xray核心
 - [iloldeGitHub/Mianliu-809](https://github.com/iloldeGitHub/Mianliu-809) - 关于最近的手机电视809免流
-- [lizisan/Free-Proxies](https://github.com/lizisan/Free-Proxies) - 代理池与订阅转换器网址合集
 - [wangai14/Fuck-XueXiQiangGuo](https://github.com/wangai14/Fuck-XueXiQiangGuo) - 学习强国 懒人刷分工具 自动学习
 - [Fndroid/clash_for_windows_pkg](https://github.com/Fndroid/clash_for_windows_pkg) - A Windows/macOS GUI based on Clash
 - [fuck-xuexiqiangguo/Fuck-XueXiQiangGuo](https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo) - 学习强国 懒人刷分工具 自动学习
