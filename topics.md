@@ -50,6 +50,7 @@
 ## electron 
 
 - [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket:A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder
+- [Fndroid/clash_for_windows_pkg](https://github.com/Fndroid/clash_for_windows_pkg) - A Windows/macOS GUI based on Clash
 
 ## flask 
 
@@ -92,7 +93,6 @@
 - [kamiyan233/bilibili-helper](https://github.com/kamiyan233/bilibili-helper) - python练习：b站主站，漫画自动签到，自动投币，观看转发
 - [asksowhat/AutoSignMachine](https://github.com/asksowhat/AutoSignMachine) - 一个自动执行任务的工具，通过它可以实现账号自动签到，自动领取权益等功能，帮助我们轻松升级
 - [wangai14/Fuck-XueXiQiangGuo](https://github.com/wangai14/Fuck-XueXiQiangGuo) - 学习强国 懒人刷分工具 自动学习
-- [Fndroid/clash_for_windows_pkg](https://github.com/Fndroid/clash_for_windows_pkg) - A Windows/macOS GUI based on Clash
 - [fuck-xuexiqiangguo/Fuck-XueXiQiangGuo](https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo) - 学习强国 懒人刷分工具 自动学习
 - [wangai14/YesPlayMusic](https://github.com/wangai14/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
 - [wangai14/Adblock4limbo](https://github.com/wangai14/Adblock4limbo) - 毒奶去广告计划（稳定版）For Quantumult X ；如去奈菲影视/低端影视/片库网/Pornhub/Jable/Netflav等视频网站广告或其他ACG网站广告；
