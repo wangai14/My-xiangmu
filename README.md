@@ -90,7 +90,6 @@
 - [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [Baiyuetribe/kamiFaka](https://github.com/Baiyuetribe/kamiFaka) - 一款基于VUE3.0的高颜值卡密发卡系统，特别适合虚拟商品、知识付费等。
 - [577fkj/mimotion](https://github.com/577fkj/mimotion) - 小米运动刷步数
-- [DoveBoy/Vmess-Actions](https://github.com/DoveBoy/Vmess-Actions) - 
 - [zhonghuaifang/My-Actions](https://github.com/zhonghuaifang/My-Actions) - （签到项目备份，自用，加入了cqhttp通知，修复b站签到报错，修复小米运动上传之后不能同步到微信运动）爱奇艺会员签到抽奖,腾讯视频会员签到,哔哩哔哩签到,中国电信签到,V2ex签到,哔咔漫画签到,百度贴吧自动签到
 - [wangai14/xiaomisport](https://github.com/wangai14/xiaomisport) - 小米运动刷步数
 - [kamiyan233/bilibili-helper](https://github.com/kamiyan233/bilibili-helper) - python练习：b站主站，漫画自动签到，自动投币，观看转发
