@@ -91,7 +91,7 @@
 - [liupan1890/aliyunpan](https://github.com/liupan1890/aliyunpan) - 阿里云盘小白羊版  阿里云盘PC版 aliyundriver
 - [wangai14/JunzhouLiu](https://github.com/wangai14/JunzhouLiu) - B站，哔哩哔哩（Bilibili）自动签到投币工具，每天轻松获取65经验值，支持每日自动投币，银瓜子兑换硬币，领取大会员福利，大会员月底给自己充电等功能。呐！赶快和我一起成为Lv6吧！
 - [kamiyan233/bilibili-helper](https://github.com/kamiyan233/bilibili-helper) - python练习：b站主站，漫画自动签到，自动投币，观看转发
-- [asksowhat/AutoSignMachine](https://github.com/asksowhat/AutoSignMachine) - 一个自动执行任务的工具，通过它可以实现账号自动签到，自动领取权益等功能，帮助我们轻松升级
+- [srcrs/AutoSignMachine](https://github.com/srcrs/AutoSignMachine) - 一个自动执行任务的工具，通过它可以实现账号自动签到，自动领取权益等功能，帮助我们轻松升级
 - [wangai14/Fuck-XueXiQiangGuo](https://github.com/wangai14/Fuck-XueXiQiangGuo) - 学习强国 懒人刷分工具 自动学习
 - [fuck-xuexiqiangguo/Fuck-XueXiQiangGuo](https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo) - 学习强国 懒人刷分工具 自动学习
 - [wangai14/YesPlayMusic](https://github.com/wangai14/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
