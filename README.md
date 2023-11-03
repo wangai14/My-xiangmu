@@ -68,7 +68,6 @@
 - [mmmdbybyd/Xray-809](https://github.com/mmmdbybyd/Xray-809) - 可用于联通809免流的Xray核心
 - [iloldeGitHub/Mianliu-809](https://github.com/iloldeGitHub/Mianliu-809) - 关于最近的手机电视809免流
 - [wangai14/Fuck-XueXiQiangGuo](https://github.com/wangai14/Fuck-XueXiQiangGuo) - 学习强国 懒人刷分工具 自动学习
-- [Fndroid/clash_for_windows_pkg](https://github.com/Fndroid/clash_for_windows_pkg) - A Windows/macOS GUI based on Clash
 - [fuck-xuexiqiangguo/Fuck-XueXiQiangGuo](https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo) - 学习强国 懒人刷分工具 自动学习
 - [wangai14/V2ray-IBM-LD](https://github.com/wangai14/V2ray-IBM-LD) - V2ray-IBM-LD默认仅支持伦敦IBM Cloud Foundry
 - [wangai14/IBM-CF-Restart](https://github.com/wangai14/IBM-CF-Restart) - 仅重启IBM Cloud Foundry中的应用程序项目
