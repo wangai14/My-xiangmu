@@ -5,11 +5,11 @@
 
 ## Contents
 
-- [Batchfile](#batchfile)
 - [C](#c)
 - [C#](#c#)
 - [Dockerfile](#dockerfile)
 - [EJS](#ejs)
+- [Go](#go)
 - [HTML](#html)
 - [Java](#java)
 - [JavaScript](#javascript)
@@ -20,10 +20,6 @@
 - [Shell](#shell)
 - [TypeScript](#typescript)
 - [Vue](#vue)
-
-## Batchfile 
-
-- [badafans/BaiduMap-Tiles-Download](https://github.com/badafans/BaiduMap-Tiles-Download) - 多线程百度地图瓦片图层下载工具
 
 ## C 
 
@@ -41,6 +37,10 @@
 ## EJS 
 
 - [ChenYFan/blog](https://github.com/ChenYFan/blog) - 陈YFの博客 - 基于GithubAction+Wexagonal自动部署
+
+## Go 
+
+- [badafans/BaiduMap-Tiles-Download](https://github.com/badafans/BaiduMap-Tiles-Download) - 多线程百度地图瓦片图层下载工具
 
 ## HTML 
 
