@@ -71,7 +71,7 @@
 ## others 
 
 - [biliup/biliup-rs](https://github.com/biliup/biliup-rs) - 命令行投稿(B站)和视频下载工具，提供多种登录方式，支持多p。
-- [Qexo/Qexo](https://github.com/Qexo/Qexo) - A Quick, Powerful and Pretty Online Manager for Hexo.
+- [Qexo/Qexo](https://github.com/Qexo/Qexo) - A fast, powerful and beautiful online manager for all static blog frameworks.
 - [LikoDeng/Mi_Project](https://github.com/LikoDeng/Mi_Project) - 用HTML+CSS实现小米商城主页面的搭建
 - [ghboke/CorePressWPTheme](https://github.com/ghboke/CorePressWPTheme) - CorePress 主题，一款高性能，高颜值的WordPress主题
 - [baomihuahua/lolimeow](https://github.com/baomihuahua/lolimeow) - wordpress主题 lolimeow
