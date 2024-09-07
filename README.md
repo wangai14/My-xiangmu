@@ -27,6 +27,8 @@
 
 ## C# # 
 
+- [RayWangQvQ/BiliBiliToolPro](https://github.com/RayWangQvQ/BiliBiliToolPro) - B 站（bilibili）自动任务工具，支持docker、青龙、k8s等多种部署方式。敏感肌也能用。
+- [yclown/ql_jd_cookie](https://github.com/yclown/ql_jd_cookie) - 青龙面板京东cookie获取桌面版，支持一键发送到青龙面板，账号密码快速填入
 - [proxysu/ProxySU](https://github.com/proxysu/ProxySU) - Xray,V2ray，Trojan，NaiveProxy, Trojan-Go, ShadowsocksR(SSR),Shadowsocks-libev及相关插件,MTProto+TLS 一键安装工具，windows下用（一键科学上网）
 
 ## Dockerfile 
@@ -53,6 +55,7 @@
 
 ## JavaScript 
 
+- [bak-up/6dylan6](https://github.com/bak-up/6dylan6) - https://github.com/6dylan6/jdpro
 - [HexoPlusPlus/HexoPlusPlus](https://github.com/HexoPlusPlus/HexoPlusPlus) - :gift:基于CloudFlareWorker的无服务器Hexo后端,目标:解决静态博客所有痛点[文章编辑、图片上传、博主活跃信息统计、博主说说]【学业繁忙，重铸中】
 - [live2364li/sub-web-modify](https://github.com/live2364li/sub-web-modify) - 最美订阅转换前端，UI大改，增加近百条远程配置！
 - [750421628/39shouting](https://github.com/750421628/39shouting) - 联通挂机任务积分脚本
