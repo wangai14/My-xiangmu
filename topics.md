@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [android](#android)
 - [awesome](#awesome)
 - [bot](#bot)
 - [chrome](#chrome)
@@ -13,6 +14,8 @@
 - [electron](#electron)
 - [flask](#flask)
 - [github](#github)
+- [ios](#ios)
+- [linux](#linux)
 - [material-design](#material-design)
 - [mysql](#mysql)
 - [others](#others)
@@ -25,7 +28,12 @@
 - [vue](#vue)
 - [vuejs](#vuejs)
 - [web](#web)
+- [windows](#windows)
 - [wordpress](#wordpress)
+
+## android 
+
+- [bia-pain-bache/BPB-Worker-Panel](https://github.com/bia-pain-bache/BPB-Worker-Panel) - A GUI Panel providing Worker subscriptions and Fragment settings and Warp configs, providing configs for cross-platform clients using (singbox-core and xray-core)
 
 ## awesome 
 
@@ -59,6 +67,14 @@
 ## github 
 
 - [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket:A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder
+
+## ios 
+
+- [bia-pain-bache/BPB-Worker-Panel](https://github.com/bia-pain-bache/BPB-Worker-Panel) - A GUI Panel providing Worker subscriptions and Fragment settings and Warp configs, providing configs for cross-platform clients using (singbox-core and xray-core)
+
+## linux 
+
+- [bia-pain-bache/BPB-Worker-Panel](https://github.com/bia-pain-bache/BPB-Worker-Panel) - A GUI Panel providing Worker subscriptions and Fragment settings and Warp configs, providing configs for cross-platform clients using (singbox-core and xray-core)
 
 ## material-design 
 
@@ -130,6 +146,7 @@
 
 ## serverless 
 
+- [cf-pages/Telegraph-Image](https://github.com/cf-pages/Telegraph-Image) - Image Hosting solution, Flickr/imgur alternative, make it easy for users to share their images. Using Cloudflare Pages and Telegraph.
 - [HexoPlusPlus/HexoPlusPlus](https://github.com/HexoPlusPlus/HexoPlusPlus) - :gift:基于CloudFlareWorker的无服务器Hexo后端,目标:解决静态博客所有痛点[文章编辑、图片上传、博主活跃信息统计、博主说说]【学业繁忙，重铸中】
 
 ## telegram 
@@ -147,6 +164,10 @@
 ## web 
 
 - [lecepin/douyin-downloader](https://github.com/lecepin/douyin-downloader) - 使用非常简单的抖音视频无水印下载工具。支持下单个视频，以及下载某个人的所有视频。（采用rust+tauri编写，安装包非常小）
+
+## windows 
+
+- [bia-pain-bache/BPB-Worker-Panel](https://github.com/bia-pain-bache/BPB-Worker-Panel) - A GUI Panel providing Worker subscriptions and Fragment settings and Warp configs, providing configs for cross-platform clients using (singbox-core and xray-core)
 
 ## wordpress 
 
