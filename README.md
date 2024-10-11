@@ -61,7 +61,7 @@
 
 ## JavaScript 
 
-- [bia-pain-bache/BPB-Worker-Panel](https://github.com/bia-pain-bache/BPB-Worker-Panel) - A GUI Panel providing Worker subscriptions and Fragment settings and Warp configs, providing configs for cross-platform clients using (singbox-core and xray-core)
+- [bia-pain-bache/BPB-Worker-Panel](https://github.com/bia-pain-bache/BPB-Worker-Panel) - A GUI Panel providing Worker subscriptions, Fragment settings and Warp configs, providing configs for cross-platform clients using (Sing-box, Clash and Xray cores)
 - [cmliu/edgetunnel](https://github.com/cmliu/edgetunnel) - 在原版的基础上修改了显示 VLESS 配置信息转换为订阅内容。使用该脚本，你可以方便地将 VLESS 配置信息使用在线配置转换到 Clash 或 Singbox 等工具中。
 - [yonggekkk/Cloudflare_vless_trojan](https://github.com/yonggekkk/Cloudflare_vless_trojan) - Cloudflare代理脚本【Vless与Trojan】，支持单节点链接、聚合通用节点订阅、sing-box节点订阅、clash节点订阅。多平台一键脚本包括CF优选域名、CF优选官方IP、CF优选反代IP
 - [bak-up/6dylan6](https://github.com/bak-up/6dylan6) - https://github.com/6dylan6/jdpro
@@ -94,6 +94,7 @@
 
 ## Python 
 
+- [Zeyi-Lin/HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 - [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [Baiyuetribe/kamiFaka](https://github.com/Baiyuetribe/kamiFaka) - 一款基于VUE3.0的高颜值卡密发卡系统，特别适合虚拟商品、知识付费等。
 - [577fkj/mimotion](https://github.com/577fkj/mimotion) - 小米运动刷步数
