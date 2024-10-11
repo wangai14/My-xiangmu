@@ -16,6 +16,7 @@
 - [github](#github)
 - [ios](#ios)
 - [linux](#linux)
+- [machine-learning](#machine-learning)
 - [material-design](#material-design)
 - [mysql](#mysql)
 - [others](#others)
@@ -33,7 +34,7 @@
 
 ## android 
 
-- [bia-pain-bache/BPB-Worker-Panel](https://github.com/bia-pain-bache/BPB-Worker-Panel) - A GUI Panel providing Worker subscriptions and Fragment settings and Warp configs, providing configs for cross-platform clients using (singbox-core and xray-core)
+- [bia-pain-bache/BPB-Worker-Panel](https://github.com/bia-pain-bache/BPB-Worker-Panel) - A GUI Panel providing Worker subscriptions, Fragment settings and Warp configs, providing configs for cross-platform clients using (Sing-box, Clash and Xray cores)
 
 ## awesome 
 
@@ -54,6 +55,7 @@
 
 ## docker 
 
+- [Zeyi-Lin/HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 - [luolongfei/freenom](https://github.com/luolongfei/freenom) - Freenom 域名自动续期。Freenom domain name renews automatically.
 
 ## electron 
@@ -70,11 +72,15 @@
 
 ## ios 
 
-- [bia-pain-bache/BPB-Worker-Panel](https://github.com/bia-pain-bache/BPB-Worker-Panel) - A GUI Panel providing Worker subscriptions and Fragment settings and Warp configs, providing configs for cross-platform clients using (singbox-core and xray-core)
+- [bia-pain-bache/BPB-Worker-Panel](https://github.com/bia-pain-bache/BPB-Worker-Panel) - A GUI Panel providing Worker subscriptions, Fragment settings and Warp configs, providing configs for cross-platform clients using (Sing-box, Clash and Xray cores)
 
 ## linux 
 
-- [bia-pain-bache/BPB-Worker-Panel](https://github.com/bia-pain-bache/BPB-Worker-Panel) - A GUI Panel providing Worker subscriptions and Fragment settings and Warp configs, providing configs for cross-platform clients using (singbox-core and xray-core)
+- [bia-pain-bache/BPB-Worker-Panel](https://github.com/bia-pain-bache/BPB-Worker-Panel) - A GUI Panel providing Worker subscriptions, Fragment settings and Warp configs, providing configs for cross-platform clients using (Sing-box, Clash and Xray cores)
+
+## machine-learning 
+
+- [Zeyi-Lin/HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 
 ## material-design 
 
@@ -167,7 +173,7 @@
 
 ## windows 
 
-- [bia-pain-bache/BPB-Worker-Panel](https://github.com/bia-pain-bache/BPB-Worker-Panel) - A GUI Panel providing Worker subscriptions and Fragment settings and Warp configs, providing configs for cross-platform clients using (singbox-core and xray-core)
+- [bia-pain-bache/BPB-Worker-Panel](https://github.com/bia-pain-bache/BPB-Worker-Panel) - A GUI Panel providing Worker subscriptions, Fragment settings and Warp configs, providing configs for cross-platform clients using (Sing-box, Clash and Xray cores)
 
 ## wordpress 
 
