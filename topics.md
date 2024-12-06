@@ -26,6 +26,7 @@
 - [rust](#rust)
 - [serverless](#serverless)
 - [telegram](#telegram)
+- [vpn](#vpn)
 - [vue](#vue)
 - [vuejs](#vuejs)
 - [web](#web)
@@ -127,7 +128,6 @@
 - [wangai14/YesPlayMusic](https://github.com/wangai14/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
 - [wangai14/Adblock4limbo](https://github.com/wangai14/Adblock4limbo) - 毒奶去广告计划（稳定版）For Quantumult X ；如去奈菲影视/低端影视/片库网/Pornhub/Jable/Netflav等视频网站广告或其他ACG网站广告；
 - [wangai14/49shouting](https://github.com/wangai14/49shouting) - 联通挂机任务积分脚本
-- [proxysu/ProxySU](https://github.com/proxysu/ProxySU) - Xray,V2ray，Trojan，NaiveProxy, Trojan-Go, ShadowsocksR(SSR),Shadowsocks-libev及相关插件,MTProto+TLS 一键安装工具，windows下用（一键科学上网）
 - [wangai14/Cloudreve-Heroku](https://github.com/wangai14/Cloudreve-Heroku) - Cloureve on Heroku with Redis
 - [larryli/PuTTY](https://github.com/larryli/PuTTY) - PuTTY 中文版，原 http://code.google.com/p/puttycn 项目。
 - [xiaofei-ya/Cloudreve-Heroku](https://github.com/xiaofei-ya/Cloudreve-Heroku) - Cloureve on Heroku with Redis
@@ -161,6 +161,10 @@
 ## telegram 
 
 - [luolongfei/freenom](https://github.com/luolongfei/freenom) - Freenom 域名自动续期。Freenom domain name renews automatically.
+
+## vpn 
+
+- [proxysu/ProxySU](https://github.com/proxysu/ProxySU) - Xray,V2ray，Trojan，NaiveProxy, Trojan-Go, ShadowsocksR(SSR),Shadowsocks-libev及相关插件,MTProto+TLS 一键安装工具，windows下用（一键科学上网）
 
 ## vue 
 
