@@ -93,6 +93,7 @@
 
 ## others 
 
+- [cmliu/CF-Workers-SUB](https://github.com/cmliu/CF-Workers-SUB) - 这个是一个通过 Cloudflare Workers 搭建，将你任意节点与多个订阅汇聚成专属于你的订阅链接
 - [6dylan6/jdpro](https://github.com/6dylan6/jdpro) - 
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [anonymous-en/bpbvless](https://github.com/anonymous-en/bpbvless) - 一键生成批量由bpb搭建的免费高速vless、Trojan节点
