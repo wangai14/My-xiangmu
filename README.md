@@ -13,6 +13,7 @@
 - [HTML](#html)
 - [Java](#java)
 - [JavaScript](#javascript)
+- [Jupyter Notebook](#jupyter-notebook)
 - [Others](#others)
 - [PHP](#php)
 - [Python](#python)
@@ -76,6 +77,10 @@
 - [wangai14/Adblock4limbo](https://github.com/wangai14/Adblock4limbo) - 毒奶去广告计划（稳定版）For Quantumult X ；如去奈菲影视/低端影视/片库网/Pornhub/Jable/Netflav等视频网站广告或其他ACG网站广告；
 - [wangai14/49shouting](https://github.com/wangai14/49shouting) - 联通挂机任务积分脚本
 
+## Jupyter Notebook 
+
+- [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
+
 ## Others 
 
 - [msechen/script](https://github.com/msechen/script) - 偷撸
@@ -98,7 +103,6 @@
 
 - [anonymous-en/bpbvless](https://github.com/anonymous-en/bpbvless) - 一键生成批量由bpb搭建的免费高速vless、Trojan节点
 - [Zeyi-Lin/HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
-- [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [Baiyuetribe/kamiFaka](https://github.com/Baiyuetribe/kamiFaka) - 一款基于VUE3.0的高颜值卡密发卡系统，特别适合虚拟商品、知识付费等。
 - [577fkj/mimotion](https://github.com/577fkj/mimotion) - 小米运动刷步数
 - [zhonghuaifang/My-Actions](https://github.com/zhonghuaifang/My-Actions) - （签到项目备份，自用，加入了cqhttp通知，修复b站签到报错，修复小米运动上传之后不能同步到微信运动）爱奇艺会员签到抽奖,腾讯视频会员签到,哔哩哔哩签到,中国电信签到,V2ex签到,哔咔漫画签到,百度贴吧自动签到
