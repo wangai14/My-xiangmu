@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [ai](#ai)
 - [android](#android)
 - [awesome](#awesome)
 - [bot](#bot)
@@ -19,9 +20,11 @@
 - [machine-learning](#machine-learning)
 - [material-design](#material-design)
 - [mysql](#mysql)
+- [nlp](#nlp)
 - [others](#others)
 - [php](#php)
 - [programming](#programming)
+- [python](#python)
 - [react](#react)
 - [rust](#rust)
 - [serverless](#serverless)
@@ -34,6 +37,10 @@
 - [web](#web)
 - [windows](#windows)
 - [wordpress](#wordpress)
+
+## ai 
+
+- [FreeIPCC/FreeIPCC](https://github.com/FreeIPCC/FreeIPCC) - 呼叫中心，智能外呼，大模型呼入机器人，大模型呼出机器人，客服系统，工单系统，开源呼叫中心系统，话务系统，智能外呼系统，智能电话外呼，呼叫中心系统，大模型客服，电话外呼，客服中心，在线客服，大模型呼叫中心，呼入机器人，大模型机器人，智能电话外呼，开源呼叫中心系统，电话外呼，在线客服，大模型callcenter,contactcenter,Call，IPCC，Customer Service，Voic
 
 ## android 
 
@@ -93,6 +100,10 @@
 ## mysql 
 
 - [Baiyuetribe/kamiFaka](https://github.com/Baiyuetribe/kamiFaka) - 一款基于VUE3.0的高颜值卡密发卡系统，特别适合虚拟商品、知识付费等。
+
+## nlp 
+
+- [FreeIPCC/FreeIPCC](https://github.com/FreeIPCC/FreeIPCC) - 呼叫中心，智能外呼，大模型呼入机器人，大模型呼出机器人，客服系统，工单系统，开源呼叫中心系统，话务系统，智能外呼系统，智能电话外呼，呼叫中心系统，大模型客服，电话外呼，客服中心，在线客服，大模型呼叫中心，呼入机器人，大模型机器人，智能电话外呼，开源呼叫中心系统，电话外呼，在线客服，大模型callcenter,contactcenter,Call，IPCC，Customer Service，Voic
 
 ## others 
 
@@ -154,6 +165,10 @@
 ## programming 
 
 - [ChenYFan/blog](https://github.com/ChenYFan/blog) - 陈YFの博客 - 基于GithubAction+Wexagonal自动部署
+
+## python 
+
+- [FreeIPCC/FreeIPCC](https://github.com/FreeIPCC/FreeIPCC) - 呼叫中心，智能外呼，大模型呼入机器人，大模型呼出机器人，客服系统，工单系统，开源呼叫中心系统，话务系统，智能外呼系统，智能电话外呼，呼叫中心系统，大模型客服，电话外呼，客服中心，在线客服，大模型呼叫中心，呼入机器人，大模型机器人，智能电话外呼，开源呼叫中心系统，电话外呼，在线客服，大模型callcenter,contactcenter,Call，IPCC，Customer Service，Voic
 
 ## react 
 
