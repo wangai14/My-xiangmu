@@ -20,6 +20,7 @@
 - [Python](#python)
 - [Rust](#rust)
 - [Shell](#shell)
+- [Stylus](#stylus)
 - [TypeScript](#typescript)
 - [Vue](#vue)
 
@@ -125,6 +126,10 @@
 
 - [mvscode/frps-onekey](https://github.com/mvscode/frps-onekey) - Frp server one-click configuration script. The script obtains the latest Frp version by default
 - [KANIKIG/Multi-EasyGost](https://github.com/KANIKIG/Multi-EasyGost) - 致力于最简单好用的GOST小白脚本
+
+## Stylus 
+
+- [anzhiyu-c/hexo-theme-anzhiyu](https://github.com/anzhiyu-c/hexo-theme-anzhiyu) - 安知鱼主题，这是一个简洁美丽的hexo主题。
 
 ## TypeScript 
 
