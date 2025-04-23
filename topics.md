@@ -30,6 +30,7 @@
 - [serverless](#serverless)
 - [shell](#shell)
 - [telegram](#telegram)
+- [telegram-bot](#telegram-bot)
 - [ubuntu](#ubuntu)
 - [vpn](#vpn)
 - [vue](#vue)
@@ -190,6 +191,10 @@
 - [mvscode/frps-onekey](https://github.com/mvscode/frps-onekey) - Frp server one-click configuration script. The script obtains the latest Frp version by default
 
 ## telegram 
+
+- [luolongfei/freenom](https://github.com/luolongfei/freenom) - Freenom 域名自动续期。Freenom domain name renews automatically.
+
+## telegram-bot 
 
 - [luolongfei/freenom](https://github.com/luolongfei/freenom) - Freenom 域名自动续期。Freenom domain name renews automatically.
 
