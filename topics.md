@@ -41,7 +41,7 @@
 
 ## ai 
 
-- [FreeIPCC/FreeIPCC](https://github.com/FreeIPCC/FreeIPCC) - 呼叫中心，智能外呼，大模型呼入机器人，大模型呼出机器人，客服系统，工单系统，开源呼叫中心系统，话务系统，智能外呼系统，智能电话外呼，呼叫中心系统，大模型客服，电话外呼，客服中心，在线客服，大模型呼叫中心，呼入机器人，大模型机器人，智能电话外呼，开源呼叫中心系统，电话外呼，在线客服，大模型callcenter,contactcenter,Call，IPCC，Customer Service，Voic
+- [FreeIPCC/FreeIPCC](https://github.com/FreeIPCC/FreeIPCC) - 呼叫中心，智能客服，智能外呼，大模型呼入机器人，大模型呼出机器人，客服系统，工单系统，开源呼叫中心系统，话务系统，智能外呼系统，智能电话外呼，呼叫中心系统，大模型客服，电话外呼，客服中心，在线客服，大模型呼叫中心，呼入机器人，大模型机器人，智能电话外呼，开源呼叫中心系统，电话外呼，在线客服，大模型callcenter,contactcenter,Call，IPCC，Customer Service
 
 ## android 
 
@@ -104,7 +104,7 @@
 
 ## nlp 
 
-- [FreeIPCC/FreeIPCC](https://github.com/FreeIPCC/FreeIPCC) - 呼叫中心，智能外呼，大模型呼入机器人，大模型呼出机器人，客服系统，工单系统，开源呼叫中心系统，话务系统，智能外呼系统，智能电话外呼，呼叫中心系统，大模型客服，电话外呼，客服中心，在线客服，大模型呼叫中心，呼入机器人，大模型机器人，智能电话外呼，开源呼叫中心系统，电话外呼，在线客服，大模型callcenter,contactcenter,Call，IPCC，Customer Service，Voic
+- [FreeIPCC/FreeIPCC](https://github.com/FreeIPCC/FreeIPCC) - 呼叫中心，智能客服，智能外呼，大模型呼入机器人，大模型呼出机器人，客服系统，工单系统，开源呼叫中心系统，话务系统，智能外呼系统，智能电话外呼，呼叫中心系统，大模型客服，电话外呼，客服中心，在线客服，大模型呼叫中心，呼入机器人，大模型机器人，智能电话外呼，开源呼叫中心系统，电话外呼，在线客服，大模型callcenter,contactcenter,Call，IPCC，Customer Service
 
 ## others 
 
@@ -172,7 +172,7 @@
 
 ## python 
 
-- [FreeIPCC/FreeIPCC](https://github.com/FreeIPCC/FreeIPCC) - 呼叫中心，智能外呼，大模型呼入机器人，大模型呼出机器人，客服系统，工单系统，开源呼叫中心系统，话务系统，智能外呼系统，智能电话外呼，呼叫中心系统，大模型客服，电话外呼，客服中心，在线客服，大模型呼叫中心，呼入机器人，大模型机器人，智能电话外呼，开源呼叫中心系统，电话外呼，在线客服，大模型callcenter,contactcenter,Call，IPCC，Customer Service，Voic
+- [FreeIPCC/FreeIPCC](https://github.com/FreeIPCC/FreeIPCC) - 呼叫中心，智能客服，智能外呼，大模型呼入机器人，大模型呼出机器人，客服系统，工单系统，开源呼叫中心系统，话务系统，智能外呼系统，智能电话外呼，呼叫中心系统，大模型客服，电话外呼，客服中心，在线客服，大模型呼叫中心，呼入机器人，大模型机器人，智能电话外呼，开源呼叫中心系统，电话外呼，在线客服，大模型callcenter,contactcenter,Call，IPCC，Customer Service
 
 ## react 
 
