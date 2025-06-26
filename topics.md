@@ -10,11 +10,13 @@
 - [awesome](#awesome)
 - [bot](#bot)
 - [chrome](#chrome)
+- [css](#css)
 - [django](#django)
 - [docker](#docker)
 - [electron](#electron)
 - [flask](#flask)
 - [github](#github)
+- [html](#html)
 - [ios](#ios)
 - [linux](#linux)
 - [machine-learning](#machine-learning)
@@ -41,6 +43,7 @@
 
 ## ai 
 
+- [LibreSpark/LibreTTS](https://github.com/LibreSpark/LibreTTS) - TTS-文本转语音/文本转语音前端，兼容OpenAI、EdgeTTS等接口
 - [FreeIPCC/FreeIPCC](https://github.com/FreeIPCC/FreeIPCC) - 呼叫中心，智能客服，智能外呼，大模型呼入机器人，大模型呼出机器人，客服系统，工单系统，开源呼叫中心系统，话务系统，智能外呼系统，智能电话外呼，呼叫中心系统，大模型客服，电话外呼，客服中心，在线客服，大模型呼叫中心，呼入机器人，大模型机器人，智能电话外呼，开源呼叫中心系统，电话外呼，在线客服，大模型callcenter,contactcenter,Call，IPCC，Customer Service
 
 ## android 
@@ -59,6 +62,10 @@
 ## chrome 
 
 - [CodFrm/cxmooc-tools](https://github.com/CodFrm/cxmooc-tools) - 一个 超星(学习通)/智慧树(知到)/中国大学mooc 学习工具,火狐,谷歌,油猴支持.全自动任务,视频倍速秒过,作业考试题库,验证码自动打码(੧ᐛ੭挂科模式,启动)
+
+## css 
+
+- [LibreSpark/LibreTV](https://github.com/LibreSpark/LibreTV) - 一分钟搭建影视站，支持Vercel/Docker等部署方式
 
 ## django 
 
@@ -80,6 +87,10 @@
 ## github 
 
 - [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket:A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder
+
+## html 
+
+- [LibreSpark/LibreTV](https://github.com/LibreSpark/LibreTV) - 一分钟搭建影视站，支持Vercel/Docker等部署方式
 
 ## ios 
 
@@ -108,6 +119,7 @@
 
 ## others 
 
+- [bestZwei/LibreWatermark](https://github.com/bestZwei/LibreWatermark) - AIChatBot生成前端创意项目——文本盲水印工具
 - [wangai14/cf2dns](https://github.com/wangai14/cf2dns) - cf2dns宝塔插件版
 - [anzhiyu-c/hexo-theme-anzhiyu](https://github.com/anzhiyu-c/hexo-theme-anzhiyu) - 安知鱼主题，这是一个简洁美丽的hexo主题。
 - [beilunyang/moepush](https://github.com/beilunyang/moepush) - 一个基于 NextJS + Cloudflare 技术栈构建的可爱消息推送服务, 支持多种消息推送渠道✨
