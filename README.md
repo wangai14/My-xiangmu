@@ -110,6 +110,7 @@
 
 ## Python 
 
+- [NeitherCandiDa/QL_TimingScript](https://github.com/NeitherCandiDa/QL_TimingScript) - 青龙面板脚本  微信每日早安推送✅ 好游快爆✅ 品赞代理✅ 哈啰✅ 中国移动云盘✅得物森林✅滴滴出行✅同程旅行✅浓五的酒馆✅顺丰速运✅OPPO商城✅安慕希✅
 - [wangai14/cf2dns](https://github.com/wangai14/cf2dns) - cf2dns宝塔插件版
 - [anonymous-en/bpbvless](https://github.com/anonymous-en/bpbvless) - 一键生成批量由bpb搭建的免费高速vless、Trojan节点
 - [Zeyi-Lin/HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
@@ -149,6 +150,7 @@
 
 ## Vue 
 
+- [algerkong/AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer) - 一个第三方音乐播放器、本地服务、桌面歌词、音乐下载、远程控制
 - [wangai14/YesPlayMusic](https://github.com/wangai14/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
 
 
