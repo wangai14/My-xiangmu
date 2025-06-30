@@ -158,7 +158,7 @@
 - [wangai14/JD_Sign_Action](https://github.com/wangai14/JD_Sign_Action) - 基于github actions的京东签到、领京豆
 - [KANIKIG/Multi-EasyGost](https://github.com/KANIKIG/Multi-EasyGost) - 致力于最简单好用的GOST小白脚本
 - [wangai14/xiaomisport](https://github.com/wangai14/xiaomisport) - 小米运动刷步数
-- [Devifish/sport-editor](https://github.com/Devifish/sport-editor) - 通过小米运动API实现的自动刷运动步数工具😒（可同步到微信、支付宝）
+- [devifish/sport-editor](https://github.com/devifish/sport-editor) - 通过小米运动API实现的自动刷运动步数工具😒（可同步到微信、支付宝）
 - [liupan1890/aliyunpan](https://github.com/liupan1890/aliyunpan) - 阿里云盘小白羊版  阿里云盘PC版 aliyundriver
 - [wangai14/JunzhouLiu](https://github.com/wangai14/JunzhouLiu) - B站，哔哩哔哩（Bilibili）自动签到投币工具，每天轻松获取65经验值，支持每日自动投币，银瓜子兑换硬币，领取大会员福利，大会员月底给自己充电等功能。呐！赶快和我一起成为Lv6吧！
 - [kamiyan233/bilibili-helper](https://github.com/kamiyan233/bilibili-helper) - python练习：b站主站，漫画自动签到，自动投币，观看转发
