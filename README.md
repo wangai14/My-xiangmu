@@ -81,7 +81,7 @@
 - [live2364li/sub-web-modify](https://github.com/live2364li/sub-web-modify) - 最美订阅转换前端，UI大改，增加近百条远程配置！
 - [750421628/39shouting](https://github.com/750421628/39shouting) - 联通挂机任务积分脚本
 - [wangai14/JD_Sign_Action](https://github.com/wangai14/JD_Sign_Action) - 基于github actions的京东签到、领京豆
-- [Devifish/sport-editor](https://github.com/Devifish/sport-editor) - 通过小米运动API实现的自动刷运动步数工具😒（可同步到微信、支付宝）
+- [devifish/sport-editor](https://github.com/devifish/sport-editor) - 通过小米运动API实现的自动刷运动步数工具😒（可同步到微信、支付宝）
 - [srcrs/AutoSignMachine](https://github.com/srcrs/AutoSignMachine) - 一个自动执行任务的工具，通过它可以实现账号自动签到，自动领取权益等功能，帮助我们轻松升级
 - [wangai14/Adblock4limbo](https://github.com/wangai14/Adblock4limbo) - 毒奶去广告计划（稳定版）For Quantumult X ；如去奈菲影视/低端影视/片库网/Pornhub/Jable/Netflav等视频网站广告或其他ACG网站广告；
 - [wangai14/49shouting](https://github.com/wangai14/49shouting) - 联通挂机任务积分脚本
