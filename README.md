@@ -26,6 +26,7 @@
 
 ## Astro 
 
+- [saicaca/fuwari](https://github.com/saicaca/fuwari) - ✨A static blog template built with Astro.
 - [zouzonghao/Astro-theme-Cactus-zh_CN](https://github.com/zouzonghao/Astro-theme-Cactus-zh_CN) - 
 
 ## C 
@@ -110,6 +111,8 @@
 
 ## Python 
 
+- [jiji262/douyin-downloader](https://github.com/jiji262/douyin-downloader) - 抖音批量下载工具，去水印，支持视频、图集、合集、音乐(原声)。免费！免费！免费！
+- [Johnserf-Seed/TikTokDownload](https://github.com/Johnserf-Seed/TikTokDownload) - 抖音去水印批量下载用户主页作品、喜欢、收藏、图文、音频
 - [NeitherCandiDa/QL_TimingScript](https://github.com/NeitherCandiDa/QL_TimingScript) - 青龙面板脚本  微信每日早安推送✅ 好游快爆✅ 品赞代理✅ 哈啰✅ 中国移动云盘✅得物森林✅滴滴出行✅同程旅行✅浓五的酒馆✅顺丰速运✅OPPO商城✅安慕希✅
 - [wangai14/cf2dns](https://github.com/wangai14/cf2dns) - cf2dns宝塔插件版
 - [anonymous-en/bpbvless](https://github.com/anonymous-en/bpbvless) - 一键生成批量由bpb搭建的免费高速vless、Trojan节点
