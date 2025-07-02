@@ -7,6 +7,7 @@
 
 - [ai](#ai)
 - [android](#android)
+- [api](#api)
 - [awesome](#awesome)
 - [bot](#bot)
 - [chrome](#chrome)
@@ -31,6 +32,8 @@
 - [rust](#rust)
 - [serverless](#serverless)
 - [shell](#shell)
+- [tailwind](#tailwind)
+- [tailwindcss](#tailwindcss)
 - [telegram](#telegram)
 - [telegram-bot](#telegram-bot)
 - [ubuntu](#ubuntu)
@@ -49,6 +52,10 @@
 ## android 
 
 - [bia-pain-bache/BPB-Worker-Panel](https://github.com/bia-pain-bache/BPB-Worker-Panel) - A GUI Panel providing Worker subscriptions for VLESS, Trojan and Warp configs alongside chain proxies, offering full DNS, clean IP,  Fragment, Warp, Warp pro and routing settings for cross-platform cl
+
+## api 
+
+- [Johnserf-Seed/TikTokDownload](https://github.com/Johnserf-Seed/TikTokDownload) - 抖音去水印批量下载用户主页作品、喜欢、收藏、图文、音频
 
 ## awesome 
 
@@ -119,6 +126,7 @@
 
 ## others 
 
+- [jiji262/douyin-downloader](https://github.com/jiji262/douyin-downloader) - 抖音批量下载工具，去水印，支持视频、图集、合集、音乐(原声)。免费！免费！免费！
 - [senshinya/MoonTV](https://github.com/senshinya/MoonTV) - 
 - [NeitherCandiDa/QL_TimingScript](https://github.com/NeitherCandiDa/QL_TimingScript) - 青龙面板脚本  微信每日早安推送✅ 好游快爆✅ 品赞代理✅ 哈啰✅ 中国移动云盘✅得物森林✅滴滴出行✅同程旅行✅浓五的酒馆✅顺丰速运✅OPPO商城✅安慕希✅
 - [algerkong/AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer) - 一个第三方音乐播放器、本地服务、桌面歌词、音乐下载、远程控制
@@ -188,6 +196,7 @@
 
 ## python 
 
+- [Johnserf-Seed/TikTokDownload](https://github.com/Johnserf-Seed/TikTokDownload) - 抖音去水印批量下载用户主页作品、喜欢、收藏、图文、音频
 - [FreeIPCC/FreeIPCC](https://github.com/FreeIPCC/FreeIPCC) - 呼叫中心，智能客服，智能外呼，大模型呼入机器人，大模型呼出机器人，客服系统，工单系统，开源呼叫中心系统，话务系统，智能外呼系统，智能电话外呼，呼叫中心系统，大模型客服，电话外呼，客服中心，在线客服，大模型呼叫中心，呼入机器人，大模型机器人，智能电话外呼，开源呼叫中心系统，电话外呼，在线客服，大模型callcenter,contactcenter,Call，IPCC，Customer Service
 
 ## react 
@@ -206,6 +215,14 @@
 ## shell 
 
 - [mvscode/frps-onekey](https://github.com/mvscode/frps-onekey) - Frp server one-click configuration script. The script obtains the latest Frp version by default
+
+## tailwind 
+
+- [saicaca/fuwari](https://github.com/saicaca/fuwari) - ✨A static blog template built with Astro.
+
+## tailwindcss 
+
+- [saicaca/fuwari](https://github.com/saicaca/fuwari) - ✨A static blog template built with Astro.
 
 ## telegram 
 
