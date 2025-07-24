@@ -26,7 +26,6 @@
 
 ## Astro 
 
-- [saicaca/fuwari](https://github.com/saicaca/fuwari) - ✨A static blog template built with Astro.
 - [zouzonghao/Astro-theme-Cactus-zh_CN](https://github.com/zouzonghao/Astro-theme-Cactus-zh_CN) - 
 
 ## C 
