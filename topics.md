@@ -32,8 +32,6 @@
 - [rust](#rust)
 - [serverless](#serverless)
 - [shell](#shell)
-- [tailwind](#tailwind)
-- [tailwindcss](#tailwindcss)
 - [telegram](#telegram)
 - [telegram-bot](#telegram-bot)
 - [ubuntu](#ubuntu)
@@ -216,14 +214,6 @@
 ## shell 
 
 - [mvscode/frps-onekey](https://github.com/mvscode/frps-onekey) - Frp server one-click configuration script. The script obtains the latest Frp version by default
-
-## tailwind 
-
-- [saicaca/fuwari](https://github.com/saicaca/fuwari) - ✨A static blog template built with Astro.
-
-## tailwindcss 
-
-- [saicaca/fuwari](https://github.com/saicaca/fuwari) - ✨A static blog template built with Astro.
 
 ## telegram 
 
