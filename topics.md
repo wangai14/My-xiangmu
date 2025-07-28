@@ -129,6 +129,8 @@
 
 ## others 
 
+- [afoim/long_link_gen](https://github.com/afoim/long_link_gen) - 一个长链接生成器
+- [wangai14/fuwari-main](https://github.com/wangai14/fuwari-main) - 折腾了二天终于搞定(新增评论)已经实现gitee自动同步代码
 - [zaunist/cloudflare-proxy](https://github.com/zaunist/cloudflare-proxy) - 
 - [slobys/sublink-worker](https://github.com/slobys/sublink-worker) - 无需服务器，一键部署，快速使用自建节点分享URL进行订阅转换，提供灵活的自定义选项，支持SingBox/Clash/V2Ray/Xray
 - [eoao/cloud-mail](https://github.com/eoao/cloud-mail) - cloudflare email 邮箱  临时邮箱 邮件发送 mail
