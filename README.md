@@ -26,6 +26,7 @@
 
 ## Astro 
 
+- [saicaca/fuwari](https://github.com/saicaca/fuwari) - ✨A static blog template built with Astro.
 - [wangai14/fuwari-main](https://github.com/wangai14/fuwari-main) - 折腾了二天终于搞定(新增评论)已经实现gitee自动同步代码
 - [zouzonghao/Astro-theme-Cactus-zh_CN](https://github.com/zouzonghao/Astro-theme-Cactus-zh_CN) - 
 
@@ -159,6 +160,7 @@
 
 ## Vue 
 
+- [imzyb/MiSub](https://github.com/imzyb/MiSub) - 测试站，密码admin
 - [algerkong/AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer) - 一个第三方音乐播放器、本地服务、桌面歌词、音乐下载、远程控制
 - [wangai14/YesPlayMusic](https://github.com/wangai14/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
 
