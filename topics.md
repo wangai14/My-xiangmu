@@ -33,6 +33,8 @@
 - [rust](#rust)
 - [serverless](#serverless)
 - [shell](#shell)
+- [tailwind](#tailwind)
+- [tailwindcss](#tailwindcss)
 - [telegram](#telegram)
 - [telegram-bot](#telegram-bot)
 - [ubuntu](#ubuntu)
@@ -129,6 +131,7 @@
 
 ## others 
 
+- [imzyb/MiSub](https://github.com/imzyb/MiSub) - 测试站，密码admin
 - [afoim/long_link_gen](https://github.com/afoim/long_link_gen) - 一个长链接生成器
 - [wangai14/fuwari-main](https://github.com/wangai14/fuwari-main) - 折腾了二天终于搞定(新增评论)已经实现gitee自动同步代码
 - [zaunist/cloudflare-proxy](https://github.com/zaunist/cloudflare-proxy) - 
@@ -222,6 +225,14 @@
 ## shell 
 
 - [mvscode/frps-onekey](https://github.com/mvscode/frps-onekey) - Frp server one-click configuration script. The script obtains the latest Frp version by default
+
+## tailwind 
+
+- [saicaca/fuwari](https://github.com/saicaca/fuwari) - ✨A static blog template built with Astro.
+
+## tailwindcss 
+
+- [saicaca/fuwari](https://github.com/saicaca/fuwari) - ✨A static blog template built with Astro.
 
 ## telegram 
 
