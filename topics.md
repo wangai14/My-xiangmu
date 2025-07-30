@@ -131,6 +131,8 @@
 
 ## others 
 
+- [ethgan/yxip](https://github.com/ethgan/yxip) - 从一个提供优选ip的网站进行优选cf ip采集
+- [wangwangit/SubsTracker](https://github.com/wangwangit/SubsTracker) - 基于Cloudflare Workers的轻量级订阅管理系统，帮助您轻松跟踪各类订阅服务的到期时间，并通过Telegram发送及时提醒。
 - [imzyb/MiSub](https://github.com/imzyb/MiSub) - 测试站，密码admin
 - [afoim/long_link_gen](https://github.com/afoim/long_link_gen) - 一个长链接生成器
 - [wangai14/fuwari-main](https://github.com/wangai14/fuwari-main) - 折腾了二天终于搞定(新增评论)已经实现gitee自动同步代码
