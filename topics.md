@@ -12,6 +12,7 @@
 - [bot](#bot)
 - [chrome](#chrome)
 - [css](#css)
+- [design](#design)
 - [django](#django)
 - [docker](#docker)
 - [electron](#electron)
@@ -30,6 +31,7 @@
 - [others](#others)
 - [php](#php)
 - [programming](#programming)
+- [pwa](#pwa)
 - [python](#python)
 - [react](#react)
 - [rust](#rust)
@@ -78,6 +80,10 @@
 ## css 
 
 - [LibreSpark/LibreTV](https://github.com/LibreSpark/LibreTV) - 一分钟搭建影视站，支持Vercel/Docker等部署方式
+
+## design 
+
+- [everfu/hexo-theme-solitude](https://github.com/everfu/hexo-theme-solitude) - 一款设计师风格的 Hexo 主题，支持懒加载、PWA、Latex以及多种评论系统。
 
 ## django 
 
@@ -221,6 +227,10 @@
 ## programming 
 
 - [ChenYFan/blog](https://github.com/ChenYFan/blog) - 陈YFの博客 - 基于GithubAction+Wexagonal自动部署
+
+## pwa 
+
+- [everfu/hexo-theme-solitude](https://github.com/everfu/hexo-theme-solitude) - 一款设计师风格的 Hexo 主题，支持懒加载、PWA、Latex以及多种评论系统。
 
 ## python 
 
