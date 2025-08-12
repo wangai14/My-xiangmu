@@ -150,6 +150,7 @@
 
 ## others 
 
+- [wangai14/solitude-](https://github.com/wangai14/solitude-) - ✨solitude主题搭建，模仿安之鱼主题二次开发，本人前来操作使用https://solitude-ecru.vercel.app
 - [helloxz/zurl](https://github.com/helloxz/zurl) - Zurl是一个简洁易用的短链接系统。
 - [JLinMr/PixPro](https://github.com/JLinMr/PixPro) - PixPro 一款个人需求的高效图床，集成了强大的图片压缩功能与优雅的前台。后台管理瀑布流展示和AJAX刷新，能有效降低存储与带宽成本。
 - [ethgan/yxip](https://github.com/ethgan/yxip) - 从一个提供优选ip的网站进行优选cf ip采集
