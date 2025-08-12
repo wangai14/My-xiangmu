@@ -57,6 +57,7 @@
 
 ## HTML 
 
+- [wangai14/solitude-](https://github.com/wangai14/solitude-) - ✨solitude主题搭建，模仿安之鱼主题二次开发，本人前来操作使用https://solitude-ecru.vercel.app
 - [afoim/long_link_gen](https://github.com/afoim/long_link_gen) - 一个长链接生成器
 - [cf-pages/Telegraph-Image](https://github.com/cf-pages/Telegraph-Image) - Image Hosting solution, Flickr/imgur alternative, make it easy for users to share their images. Using Cloudflare Pages and Telegraph.
 - [Qexo/Qexo](https://github.com/Qexo/Qexo) - A fast, powerful and beautiful online manager for all static blog frameworks.
