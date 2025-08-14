@@ -146,6 +146,7 @@
 
 ## Shell 
 
+- [wukongdaily/ib-overlay](https://github.com/wukongdaily/ib-overlay) - Custom overlay files and scripts for OpenWrt ImageBuilder 24.10.2
 - [mvscode/frps-onekey](https://github.com/mvscode/frps-onekey) - Frp server one-click configuration script. The script obtains the latest Frp version by default
 - [KANIKIG/Multi-EasyGost](https://github.com/KANIKIG/Multi-EasyGost) - 致力于最简单好用的GOST小白脚本
 
