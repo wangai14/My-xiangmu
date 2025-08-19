@@ -150,6 +150,7 @@
 
 ## others 
 
+- [xykt/NetQuality](https://github.com/xykt/NetQuality) - 网络质量检测脚本 - Network Quality Check Script
 - [sindricn/s-hy2](https://github.com/sindricn/s-hy2) - 
 - [wukongdaily/ib-overlay](https://github.com/wukongdaily/ib-overlay) - Custom overlay files and scripts for OpenWrt ImageBuilder 24.10.2
 - [wangai14/solitude-](https://github.com/wangai14/solitude-) - ✨solitude主题搭建，模仿安之鱼主题二次开发，本人前来操作使用https://solitude-ecru.vercel.app
