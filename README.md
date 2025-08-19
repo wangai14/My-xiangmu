@@ -146,6 +146,7 @@
 
 ## Shell 
 
+- [xykt/NetQuality](https://github.com/xykt/NetQuality) - 网络质量检测脚本 - Network Quality Check Script
 - [sindricn/s-hy2](https://github.com/sindricn/s-hy2) - 
 - [wukongdaily/ib-overlay](https://github.com/wukongdaily/ib-overlay) - Custom overlay files and scripts for OpenWrt ImageBuilder 24.10.2
 - [mvscode/frps-onekey](https://github.com/mvscode/frps-onekey) - Frp server one-click configuration script. The script obtains the latest Frp version by default
