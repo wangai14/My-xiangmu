@@ -146,6 +146,7 @@
 
 ## Shell 
 
+- [VIKINGYFY/OpenWRT-CI](https://github.com/VIKINGYFY/OpenWRT-CI) - 云编译OpenWRT开源固件
 - [xykt/NetQuality](https://github.com/xykt/NetQuality) - 网络质量检测脚本 - Network Quality Check Script
 - [sindricn/s-hy2](https://github.com/sindricn/s-hy2) - 
 - [wukongdaily/ib-overlay](https://github.com/wukongdaily/ib-overlay) - Custom overlay files and scripts for OpenWrt ImageBuilder 24.10.2
