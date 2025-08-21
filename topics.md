@@ -150,6 +150,7 @@
 
 ## others 
 
+- [VIKINGYFY/OpenWRT-CI](https://github.com/VIKINGYFY/OpenWRT-CI) - 云编译OpenWRT开源固件
 - [666zmy/MoonTV](https://github.com/666zmy/MoonTV) - 
 - [xykt/NetQuality](https://github.com/xykt/NetQuality) - 网络质量检测脚本 - Network Quality Check Script
 - [sindricn/s-hy2](https://github.com/sindricn/s-hy2) - 
