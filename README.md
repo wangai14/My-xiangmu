@@ -122,6 +122,7 @@
 
 ## Python 
 
+- [GakkiNoOne/hajimi-king](https://github.com/GakkiNoOne/hajimi-king) - 人人都是哈基米大王
 - [helloxz/zurl](https://github.com/helloxz/zurl) - Zurl是一个简洁易用的短链接系统。
 - [ethgan/yxip](https://github.com/ethgan/yxip) - 从一个提供优选ip的网站进行优选cf ip采集
 - [jiji262/douyin-downloader](https://github.com/jiji262/douyin-downloader) - 抖音批量下载工具，去水印，支持视频、图集、合集、音乐(原声)。免费！免费！免费！
