@@ -71,6 +71,7 @@
 
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [wangwangit/SubsTracker](https://github.com/wangwangit/SubsTracker) - 基于Cloudflare Workers的轻量级订阅管理系统，帮助您轻松跟踪各类订阅服务的到期时间，并通过Telegram发送及时提醒。
+- [imzyb/MiSub](https://github.com/imzyb/MiSub) - 测试站，密码admin
 - [pot-app/pot-desktop](https://github.com/pot-app/pot-desktop) - 🌈一个跨平台的划词翻译和OCR软件 | A cross-platform software for text translation and recognition.
 - [topabomb/marktext-specialedition](https://github.com/topabomb/marktext-specialedition) - marktext0.17.1分叉的中文特别版
 - [zaunist/cloudflare-proxy](https://github.com/zaunist/cloudflare-proxy) - 
@@ -172,7 +173,6 @@
 
 ## Vue 
 
-- [imzyb/MiSub](https://github.com/imzyb/MiSub) - 测试站，密码admin
 - [algerkong/AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer) - 一个第三方音乐播放器、本地服务、桌面歌词、音乐下载、远程控制
 - [wangai14/YesPlayMusic](https://github.com/wangai14/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
 
