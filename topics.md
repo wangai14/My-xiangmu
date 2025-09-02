@@ -155,6 +155,7 @@
 
 ## others 
 
+- [ZqinKing/wrt_release](https://github.com/ZqinKing/wrt_release) - 
 - [GakkiNoOne/hajimi-king](https://github.com/GakkiNoOne/hajimi-king) - 人人都是哈基米大王
 - [VIKINGYFY/OpenWRT-CI](https://github.com/VIKINGYFY/OpenWRT-CI) - 云编译OpenWRT开源固件
 - [666zmy/MoonTV](https://github.com/666zmy/MoonTV) - 
