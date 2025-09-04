@@ -155,6 +155,8 @@
 
 ## others 
 
+- [wangai14/hiddify-app](https://github.com/wangai14/hiddify-app) - Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.
+- [alireza0/s-ui](https://github.com/alireza0/s-ui) - An advanced Web Panel • Built for SagerNet/Sing-Box
 - [ZqinKing/wrt_release](https://github.com/ZqinKing/wrt_release) - 
 - [GakkiNoOne/hajimi-king](https://github.com/GakkiNoOne/hajimi-king) - 人人都是哈基米大王
 - [VIKINGYFY/OpenWRT-CI](https://github.com/VIKINGYFY/OpenWRT-CI) - 云编译OpenWRT开源固件
