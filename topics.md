@@ -155,6 +155,7 @@
 
 ## others 
 
+- [katelya77/KatelyaTV](https://github.com/katelya77/KatelyaTV) - 一个基于MoonTV(LunaTV)二次开发的项目。
 - [wangai14/hiddify-app](https://github.com/wangai14/hiddify-app) - Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.
 - [alireza0/s-ui](https://github.com/alireza0/s-ui) - An advanced Web Panel • Built for SagerNet/Sing-Box
 - [ZqinKing/wrt_release](https://github.com/ZqinKing/wrt_release) - 
