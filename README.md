@@ -37,6 +37,7 @@
 
 ## C# # 
 
+- [ZyperWave/ZyperWinOptimize](https://github.com/ZyperWave/ZyperWinOptimize) - ZyperWin++是一个轻便的Windows优化工具，适用于Win7-Win11最新版的优化，包括性能优化、服务项优化、垃圾清理等操作，还支持系统激活和Office快速安装。
 - [cmliu/CFnat-Windows-GUI](https://github.com/cmliu/CFnat-Windows-GUI) - CFnat 为 Windows 用户设计的 GUI 程序界面。
 - [RayWangQvQ/BiliBiliToolPro](https://github.com/RayWangQvQ/BiliBiliToolPro) - B 站（bilibili）自动任务工具，支持docker、青龙、k8s等多种部署方式。敏感肌也能用。
 - [yclown/ql_jd_cookie](https://github.com/yclown/ql_jd_cookie) - 青龙面板京东cookie获取桌面版，支持一键发送到青龙面板，账号密码快速填入
@@ -64,6 +65,7 @@
 
 ## HTML 
 
+- [wttAndroid/web-resume-resume](https://github.com/wttAndroid/web-resume-resume) - HTML+CSS+JS前端 web个人网站web网页(多页面) Web前端个人网站，网页站模版
 - [wangai14/solitude-](https://github.com/wangai14/solitude-) - ✨solitude主题搭建，模仿安之鱼主题二次开发，本人前来操作使用https://solitude-ecru.vercel.app
 - [afoim/long_link_gen](https://github.com/afoim/long_link_gen) - 一个长链接生成器
 - [cf-pages/Telegraph-Image](https://github.com/cf-pages/Telegraph-Image) - Image Hosting solution, Flickr/imgur alternative, make it easy for users to share their images. Using Cloudflare Pages and Telegraph.
@@ -169,6 +171,7 @@
 
 ## TypeScript 
 
+- [visiky/resume](https://github.com/visiky/resume) - 🚀 在线简历生成器
 - [katelya77/KatelyaTV](https://github.com/katelya77/KatelyaTV) - 一个基于MoonTV(LunaTV)二次开发的项目。
 - [djteang/OrangeTV](https://github.com/djteang/OrangeTV) - 本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源
 - [666zmy/MoonTV](https://github.com/666zmy/MoonTV) - 
