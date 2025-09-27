@@ -160,6 +160,8 @@
 
 ## others 
 
+- [imzyb/MiSub](https://github.com/imzyb/MiSub) - 测试站，密码admin
+- [byJoey/cfnew](https://github.com/byJoey/cfnew) - 
 - [ZyperWave/ZyperWinOptimize](https://github.com/ZyperWave/ZyperWinOptimize) - ZyperWin++是一个轻便的Windows优化工具，适用于Win7-Win11最新版的优化，包括性能优化、服务项优化、垃圾清理等操作，还支持系统激活和Office快速安装。
 - [wttAndroid/web-resume-resume](https://github.com/wttAndroid/web-resume-resume) - HTML+CSS+JS前端 web个人网站web网页(多页面) Web前端个人网站，网页站模版
 - [visiky/resume](https://github.com/visiky/resume) - 🚀 在线简历生成器
@@ -179,7 +181,6 @@
 - [JLinMr/PixPro](https://github.com/JLinMr/PixPro) - PixPro 一款个人需求的高效图床，集成了强大的图片压缩功能与优雅的前台。后台管理瀑布流展示和AJAX刷新，能有效降低存储与带宽成本。
 - [ethgan/yxip](https://github.com/ethgan/yxip) - 从一个提供优选ip的网站进行优选cf ip采集
 - [wangwangit/SubsTracker](https://github.com/wangwangit/SubsTracker) - 基于Cloudflare Workers的轻量级订阅管理系统，帮助您轻松跟踪各类订阅服务的到期时间，并通过Telegram发送及时提醒。
-- [imzyb/MiSub](https://github.com/imzyb/MiSub) - 测试站，密码admin
 - [afoim/long_link_gen](https://github.com/afoim/long_link_gen) - 一个长链接生成器
 - [wangai14/fuwari-main](https://github.com/wangai14/fuwari-main) - 折腾了二天终于搞定(新增评论)已经实现gitee自动同步代码
 - [zaunist/cloudflare-proxy](https://github.com/zaunist/cloudflare-proxy) - 
