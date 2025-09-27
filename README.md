@@ -78,9 +78,9 @@
 
 ## JavaScript 
 
+- [imzyb/MiSub](https://github.com/imzyb/MiSub) - 测试站，密码admin
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [wangwangit/SubsTracker](https://github.com/wangwangit/SubsTracker) - 基于Cloudflare Workers的轻量级订阅管理系统，帮助您轻松跟踪各类订阅服务的到期时间，并通过Telegram发送及时提醒。
-- [imzyb/MiSub](https://github.com/imzyb/MiSub) - 测试站，密码admin
 - [pot-app/pot-desktop](https://github.com/pot-app/pot-desktop) - 🌈一个跨平台的划词翻译和OCR软件 | A cross-platform software for text translation and recognition.
 - [topabomb/marktext-specialedition](https://github.com/topabomb/marktext-specialedition) - marktext0.17.1分叉的中文特别版
 - [slobys/sublink-worker](https://github.com/slobys/sublink-worker) - 无需服务器，一键部署，快速使用自建节点分享URL进行订阅转换，提供灵活的自定义选项，支持SingBox/Clash/V2Ray/Xray
@@ -112,6 +112,7 @@
 
 ## Others 
 
+- [byJoey/cfnew](https://github.com/byJoey/cfnew) - 
 - [zaunist/cloudflare-proxy](https://github.com/zaunist/cloudflare-proxy) - 
 - [msechen/script](https://github.com/msechen/script) - 偷撸
 - [mmmdbybyd/Xray-809](https://github.com/mmmdbybyd/Xray-809) - 可用于联通809免流的Xray核心
