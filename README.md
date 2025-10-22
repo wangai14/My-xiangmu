@@ -115,7 +115,6 @@
 ## Others 
 
 - [byJoey/cfnew](https://github.com/byJoey/cfnew) - 
-- [zaunist/cloudflare-proxy](https://github.com/zaunist/cloudflare-proxy) - 
 - [msechen/script](https://github.com/msechen/script) - 偷撸
 - [mmmdbybyd/Xray-809](https://github.com/mmmdbybyd/Xray-809) - 可用于联通809免流的Xray核心
 - [iloldeGitHub/Mianliu-809](https://github.com/iloldeGitHub/Mianliu-809) - 关于最近的手机电视809免流
