@@ -166,6 +166,8 @@
 
 ## others 
 
+- [wangai14/telegrImage](https://github.com/wangai14/telegrImage) - 图床
+- [x-dr/telegraph-Image](https://github.com/x-dr/telegraph-Image) - 
 - [wangai14/KTV](https://github.com/wangai14/KTV) - 一个基于MoonTV(LunaTV)二次开发的项目。
 - [coracoo/DockPorts](https://github.com/coracoo/DockPorts) - 一个现代化的Docker容器端口监控和可视化工具，帮助您轻松管理和监控NAS或服务器上的端口使用情况。
 - [MoonTechLab/LunaTV](https://github.com/MoonTechLab/LunaTV) - 本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源
