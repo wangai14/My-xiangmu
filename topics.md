@@ -166,6 +166,7 @@
 
 ## others 
 
+- [eooce/Cloudflare-proxy](https://github.com/eooce/Cloudflare-proxy) - Running VLESS + trojan + shadowsocks on cloudflare workers and snippets
 - [cmliu/WorkerVless2sub](https://github.com/cmliu/WorkerVless2sub) - 自动化批量替换生成优选线路 VMess / VLESS / Trojan 节点的 优选订阅生成器
 - [wangai14/telegrImage](https://github.com/wangai14/telegrImage) - 图床
 - [x-dr/telegraph-Image](https://github.com/x-dr/telegraph-Image) - 
