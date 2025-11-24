@@ -33,6 +33,7 @@
 
 ## C 
 
+- [laipeng668/immortalwrt](https://github.com/laipeng668/immortalwrt) - 京东云（亚瑟&雅典娜&太乙）路由器满血NSS支持！
 - [larryli/PuTTY](https://github.com/larryli/PuTTY) - PuTTY 中文版，原 http://code.google.com/p/puttycn 项目。
 
 ## C# # 
@@ -160,6 +161,7 @@
 
 ## Shell 
 
+- [innmonkeyone/immortalwrt-N1](https://github.com/innmonkeyone/immortalwrt-N1) - 斐讯 N1
 - [ZqinKing/wrt_release](https://github.com/ZqinKing/wrt_release) - 
 - [VIKINGYFY/OpenWRT-CI](https://github.com/VIKINGYFY/OpenWRT-CI) - 云编译OpenWRT开源固件
 - [xykt/NetQuality](https://github.com/xykt/NetQuality) - 网络质量检测脚本 - Network Quality Check Script
