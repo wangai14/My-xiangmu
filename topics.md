@@ -166,6 +166,7 @@
 
 ## others 
 
+- [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) - DigitalPlat FreeDomain: Free Domain For Everyone
 - [innmonkeyone/immortalwrt-N1](https://github.com/innmonkeyone/immortalwrt-N1) - 斐讯 N1
 - [laipeng668/immortalwrt](https://github.com/laipeng668/immortalwrt) - 京东云（亚瑟&雅典娜&太乙）路由器满血NSS支持！
 - [eooce/Cloudflare-proxy](https://github.com/eooce/Cloudflare-proxy) - Running VLESS + trojan + shadowsocks on cloudflare workers and snippets..........在workers或snippets上部署vless/trojan/shadowsocks代理节点，主流客户端一键订阅
