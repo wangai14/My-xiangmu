@@ -125,7 +125,7 @@
 
 ## http 
 
-- [yonggekkk/Cloudflare-vless-trojan](https://github.com/yonggekkk/Cloudflare-vless-trojan) - CF-workers/pages代理脚本【Vless与Trojan】：支持nat64自动生成proxyip，一键自建proxyip与CF反代IP，CF优选官方IP三地区应用脚本，自动输出美、亚、欧最佳优选IP
+- [yonggekkk/Cloudflare-vless-trojan](https://github.com/yonggekkk/Cloudflare-vless-trojan) - CF-workers/pages代理脚本：支持Vless-ws(tls)、Trojan-ws(tls)、Socks5、http
 
 ## ios 
 
@@ -172,6 +172,7 @@
 
 ## others 
 
+- [afoim/fuwari](https://github.com/afoim/fuwari) - 魔改版Fuwari，自用博客
 - [matsuzaka-yuki/Mizuki](https://github.com/matsuzaka-yuki/Mizuki) - 下一代Material Design 3 博客主题(Astro驱动)
 - [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) - DigitalPlat FreeDomain: Free Domain For Everyone
 - [innmonkeyone/immortalwrt-N1](https://github.com/innmonkeyone/immortalwrt-N1) - 斐讯 N1
