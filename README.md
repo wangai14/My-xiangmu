@@ -104,7 +104,7 @@
 - [6dylan6/jdpro](https://github.com/6dylan6/jdpro) - 
 - [ggvip520/edgetunnel](https://github.com/ggvip520/edgetunnel) - 在原版的基础上修改了显示 VLESS 配置信息转换为订阅内容。使用该脚本，你可以方便地将 VLESS 配置信息使用在线配置转换到 Clash 或 Singbox 等工具中。
 - [cmliu/edgetunnel](https://github.com/cmliu/edgetunnel) - edgetunnel 2.0 VLESS/Trojan 多功能面板
-- [yonggekkk/Cloudflare-vless-trojan](https://github.com/yonggekkk/Cloudflare-vless-trojan) - CF-workers/pages代理脚本：支持Vless-ws(tls)、Trojan-ws(tls)、Socks5、http
+- [yonggekkk/Cloudflare-vless-trojan](https://github.com/yonggekkk/Cloudflare-vless-trojan) - CF-workers/pages代理脚本：支持Vless-ws(tls)、Trojan-ws(tls)；本地代理支持Socks5/http，可选ECH-TLS、普通TLS、无TLS三种代理模式
 - [bak-up/6dylan6](https://github.com/bak-up/6dylan6) - https://github.com/6dylan6/jdpro
 - [HexoPlusPlus/HexoPlusPlus](https://github.com/HexoPlusPlus/HexoPlusPlus) - :gift:基于CloudFlareWorker的无服务器Hexo后端,目标:解决静态博客所有痛点[文章编辑、图片上传、博主活跃信息统计、博主说说]【学业繁忙，重铸中】
 - [live2364li/sub-web-modify](https://github.com/live2364li/sub-web-modify) - 最美订阅转换前端，UI大改，增加近百条远程配置！
