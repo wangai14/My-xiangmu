@@ -29,6 +29,7 @@
 - [macos](#macos)
 - [markdown](#markdown)
 - [material-design](#material-design)
+- [mcp](#mcp)
 - [music](#music)
 - [mysql](#mysql)
 - [openai](#openai)
@@ -157,6 +158,10 @@
 
 - [HexoPlusPlus/HexoPlusPlus](https://github.com/HexoPlusPlus/HexoPlusPlus) - :gift:基于CloudFlareWorker的无服务器Hexo后端,目标:解决静态博客所有痛点[文章编辑、图片上传、博主活跃信息统计、博主说说]【学业繁忙，重铸中】
 
+## mcp 
+
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
+
 ## music 
 
 - [algerkong/AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer) - 一个第三方音乐播放器、本地服务、桌面歌词、音乐下载、远程控制
@@ -208,7 +213,7 @@
 - [afoim/long_link_gen](https://github.com/afoim/long_link_gen) - 一个长链接生成器
 - [wangai14/fuwari-main](https://github.com/wangai14/fuwari-main) - 折腾了二天终于搞定(新增评论)已经实现gitee自动同步代码
 - [slobys/sublink-worker](https://github.com/slobys/sublink-worker) - 无需服务器，一键部署，快速使用自建节点分享URL进行订阅转换，提供灵活的自定义选项，支持SingBox/Clash/V2Ray/Xray
-- [maillab/cloud-mail](https://github.com/maillab/cloud-mail) - Cloud Mail - Simple Email Service on Cloudflare  | 基于 Cloudflare 的简约响应式邮箱服务  | Cloudflare Email 邮箱 Mail
+- [maillab/cloud-mail](https://github.com/maillab/cloud-mail) - A Cloudflare-based email service  | 基于 Cloudflare 的邮箱服务  | Cloudflare Email 邮箱 Mail
 - [jiji262/douyin-downloader](https://github.com/jiji262/douyin-downloader) - 抖音批量下载工具，去水印，支持视频、图集、合集、音乐(原声)。免费！免费！免费！
 - [NeitherCandiDa/QL_TimingScript](https://github.com/NeitherCandiDa/QL_TimingScript) - 青龙面板脚本  微信每日早安推送✅ 好游快爆✅ 品赞代理✅ 哈啰✅ 中国移动云盘✅滴滴出行✅同程旅行✅浓五的酒馆✅顺丰速运✅OPPO商城✅
 - [jonssonyan/h-ui](https://github.com/jonssonyan/h-ui) - Just the panel for Hysteria2 / 仅仅是 Hysteria2 的面板
