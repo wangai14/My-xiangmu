@@ -198,7 +198,7 @@
 
 ## Vue 
 
-- [imzyb/MiSub](https://github.com/imzyb/MiSub) - 测试站，密码admin
+- [imzyb/MiSub](https://github.com/imzyb/MiSub) - 测试站，密码admin123
 - [helloxz/zurl](https://github.com/helloxz/zurl) - Zurl是一个简洁易用的短链接系统。
 - [algerkong/AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer) - 一个第三方音乐播放器、本地服务、桌面歌词、音乐下载、远程控制
 - [wangai14/YesPlayMusic](https://github.com/wangai14/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
