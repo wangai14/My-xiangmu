@@ -178,6 +178,7 @@
 
 ## others 
 
+- [Decohererk/DecoTV](https://github.com/Decohererk/DecoTV) - 基于最新版LunaTV二次开发的一个开箱即用的、跨平台的影视聚合播放站。【原KatelyaTV】
 - [wangai14/ryu](https://github.com/wangai14/ryu) - ✨A static blog template built with Astro. 博客搭建
 - [Keduoli03/Cloudflare-Random-Image](https://github.com/Keduoli03/Cloudflare-Random-Image) - 使用 Cloudflare 规则实现的不限请求次数的随机图片 API。
 - [afoim/fuwari](https://github.com/afoim/fuwari) - 魔改版Fuwari，自用博客
