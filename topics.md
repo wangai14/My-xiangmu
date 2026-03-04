@@ -19,6 +19,7 @@
 - [django](#django)
 - [docker](#docker)
 - [electron](#electron)
+- [fastapi](#fastapi)
 - [flask](#flask)
 - [github](#github)
 - [html](#html)
@@ -120,6 +121,10 @@
 ## electron 
 
 - [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket: The Ultimate Image Uploader for Efficient Creators. Supports Obsidian, Typora, VS Code etc. and 60+ image hosting services  (S3, GitHub, Cloudflare R2, Imgur, Aliyun OSS...). Paste, upload, d
+
+## fastapi 
+
+- [Zeyi-Lin/HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 
 ## flask 
 
