@@ -22,13 +22,13 @@
 - [Rust](#rust)
 - [Shell](#shell)
 - [Stylus](#stylus)
+- [Svelte](#svelte)
 - [TypeScript](#typescript)
 - [Vue](#vue)
 
 ## Astro 
 
 - [wangai14/ryu](https://github.com/wangai14/ryu) - ✨A static blog template built with Astro. 博客搭建
-- [afoim/fuwari](https://github.com/afoim/fuwari) - 魔改版Fuwari，自用博客
 - [matsuzaka-yuki/Mizuki](https://github.com/matsuzaka-yuki/Mizuki) - 下一代Material Design 3 博客主题(Astro驱动)
 - [saicaca/fuwari](https://github.com/saicaca/fuwari) - ✨A static blog template built with Astro.
 - [wangai14/fuwari-main](https://github.com/wangai14/fuwari-main) - 折腾了二天终于搞定(新增评论)已经实现gitee自动同步代码
@@ -180,6 +180,10 @@
 
 - [everfu/hexo-theme-solitude](https://github.com/everfu/hexo-theme-solitude) - 一款设计师风格的 Hexo 主题，支持懒加载、PWA、Latex以及多种评论系统。
 - [anzhiyu-c/hexo-theme-anzhiyu](https://github.com/anzhiyu-c/hexo-theme-anzhiyu) - 安知鱼主题，这是一个简洁美丽的hexo主题。
+
+## Svelte 
+
+- [afoim/fuwari](https://github.com/afoim/fuwari) - 魔改版Fuwari，自用博客
 
 ## TypeScript 
 
