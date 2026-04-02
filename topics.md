@@ -197,7 +197,7 @@
 - [wangai14/ryu](https://github.com/wangai14/ryu) - ✨A static blog template built with Astro. 博客搭建
 - [Keduoli03/Cloudflare-Random-Image](https://github.com/Keduoli03/Cloudflare-Random-Image) - 使用 Cloudflare 规则实现的不限请求次数的随机图片 API。
 - [afoim/fuwari](https://github.com/afoim/fuwari) - 魔改版Fuwari，自用博客
-- [matsuzaka-yuki/Mizuki](https://github.com/matsuzaka-yuki/Mizuki) - 下一代Material Design 3 博客主题(Astro驱动)
+- [LyraVoid/Mizuki](https://github.com/LyraVoid/Mizuki) - 下一代Material Design 3 博客主题(Astro驱动)
 - [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) - DigitalPlat FreeDomain: Free Domain For Everyone
 - [innmonkeyone/immortalwrt-N1](https://github.com/innmonkeyone/immortalwrt-N1) - 斐讯 N1
 - [laipeng668/immortalwrt](https://github.com/laipeng668/immortalwrt) - 京东云（亚瑟&雅典娜&太乙）路由器满血NSS支持！
