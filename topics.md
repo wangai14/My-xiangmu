@@ -193,6 +193,8 @@
 
 ## others 
 
+- [a63414262/CF-Server-Monitor-Pro](https://github.com/a63414262/CF-Server-Monitor-Pro) - 基于 Cloudflare Workers 和 D1 数据库构建的轻量级、零成本、高定制化的服务器探针大盘。 完美复刻了商业级探针的核心体验，但无需额外部署任何服务端 VPS！完全白嫖 Cloudflare 的免费 Serverless 资源。
+- [ethgan/Cloudflare_TextSpace_Worker](https://github.com/ethgan/Cloudflare_TextSpace_Worker) - 重磅福利 | 拥抱Cloudflare 文本直链网盘 | 拒绝限流 | CDN加速 | 100%免费 https://www.youtube.com/watch?v=QZUx4pHf0J4
 - [helloyangy/chatgpt2api-Tutorial](https://github.com/helloyangy/chatgpt2api-Tutorial) - chatgpt2api反代gpt-image-2画图大模型，免费使用效果强大
 - [Decohererk/DecoTV](https://github.com/Decohererk/DecoTV) - 基于最新版LunaTV二次开发的一个开箱即用的、跨平台的影视聚合播放站。【原KatelyaTV】
 - [wangai14/ryu](https://github.com/wangai14/ryu) - ✨A static blog template built with Astro. 博客搭建
