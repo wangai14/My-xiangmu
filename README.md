@@ -170,6 +170,7 @@
 
 ## Shell 
 
+- [slobys/xboard-one-click](https://github.com/slobys/xboard-one-click) - One-click Xboard deployment with Nginx Proxy Manager and firewall support
 - [innmonkeyone/immortalwrt-N1](https://github.com/innmonkeyone/immortalwrt-N1) - 斐讯 N1
 - [ZqinKing/wrt_release](https://github.com/ZqinKing/wrt_release) - 
 - [VIKINGYFY/OpenWRT-CI](https://github.com/VIKINGYFY/OpenWRT-CI) - 云编译OpenWRT开源固件
