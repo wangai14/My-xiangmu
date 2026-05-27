@@ -63,7 +63,6 @@
 
 ## Go 
 
-- [alireza0/s-ui](https://github.com/alireza0/s-ui) - An advanced Web Panel • Built for SagerNet/Sing-Box
 - [jonssonyan/h-ui](https://github.com/jonssonyan/h-ui) - Just the panel for Hysteria2 / 仅仅是 Hysteria2 的面板
 - [badafans/BaiduMap-Tiles-Download](https://github.com/badafans/BaiduMap-Tiles-Download) - 多线程百度地图瓦片图层下载工具
 
@@ -85,6 +84,7 @@
 ## JavaScript 
 
 - [XCQ0607/lxserver](https://github.com/XCQ0607/lxserver) - LX Music 数据同步服务端，同时支持了部分lx-music-desktop的网页端实现。
+- [a63414262/CF-Server-Monitor-Pro](https://github.com/a63414262/CF-Server-Monitor-Pro) - 基于 Cloudflare Workers 和 D1 数据库构建的轻量级、零成本、高定制化的服务器探针大盘。 完美复刻了商业级探针的核心体验，但无需额外部署任何服务端 VPS！完全白嫖 Cloudflare 的免费 Serverless 资源。
 - [ethgan/Cloudflare_TextSpace_Worker](https://github.com/ethgan/Cloudflare_TextSpace_Worker) - 重磅福利 | 拥抱Cloudflare 文本直链网盘 | 拒绝限流 | CDN加速 | 100%免费 https://www.youtube.com/watch?v=QZUx4pHf0J4
 - [eooce/Cloudflare-proxy](https://github.com/eooce/Cloudflare-proxy) - Running VLESS + trojan + shadowsocks on cloudflare workers and snippets..........在workers或snippets上部署vless/trojan/shadowsocks代理节点，主流客户端一键订阅
 - [cmliu/WorkerVless2sub](https://github.com/cmliu/WorkerVless2sub) - 自动化批量替换生成优选线路 VMess / VLESS / Trojan 节点的 优选订阅生成器
@@ -122,7 +122,6 @@
 
 ## Others 
 
-- [a63414262/CF-Server-Monitor-Pro](https://github.com/a63414262/CF-Server-Monitor-Pro) - 基于 Cloudflare Workers 和 D1 数据库构建的轻量级、零成本、高定制化的服务器探针大盘。 完美复刻了商业级探针的核心体验，但无需额外部署任何服务端 VPS！完全白嫖 Cloudflare 的免费 Serverless 资源。
 - [helloyangy/chatgpt2api-Tutorial](https://github.com/helloyangy/chatgpt2api-Tutorial) - chatgpt2api反代gpt-image-2画图大模型，免费使用效果强大
 - [byJoey/cfnew](https://github.com/byJoey/cfnew) - 
 - [msechen/script](https://github.com/msechen/script) - 偷撸
