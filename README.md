@@ -63,6 +63,7 @@
 
 ## Go 
 
+- [alireza0/s-ui](https://github.com/alireza0/s-ui) - An advanced Web Panel • Built for SagerNet/Sing-Box
 - [jonssonyan/h-ui](https://github.com/jonssonyan/h-ui) - Just the panel for Hysteria2 / 仅仅是 Hysteria2 的面板
 - [badafans/BaiduMap-Tiles-Download](https://github.com/badafans/BaiduMap-Tiles-Download) - 多线程百度地图瓦片图层下载工具
 
