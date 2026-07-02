@@ -84,6 +84,7 @@
 
 ## JavaScript 
 
+- [7Sageer/sublink-worker](https://github.com/7Sageer/sublink-worker) - One Worker, All Subscriptions
 - [XCQ0607/lxserver](https://github.com/XCQ0607/lxserver) - LX Music 数据同步服务端，同时支持了部分lx-music-desktop的网页端实现。
 - [a63414262/CF-Server-Monitor-Pro](https://github.com/a63414262/CF-Server-Monitor-Pro) - 基于 Cloudflare Workers 和 D1 数据库构建的轻量级、零成本、高定制化的服务器探针大盘。 完美复刻了商业级探针的核心体验，但无需额外部署任何服务端 VPS！完全白嫖 Cloudflare 的免费 Serverless 资源。
 - [ethgan/Cloudflare_TextSpace_Worker](https://github.com/ethgan/Cloudflare_TextSpace_Worker) - 重磅福利 | 拥抱Cloudflare 文本直链网盘 | 拒绝限流 | CDN加速 | 100%免费 https://www.youtube.com/watch?v=QZUx4pHf0J4
