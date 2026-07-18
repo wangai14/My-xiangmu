@@ -194,6 +194,7 @@
 
 ## others 
 
+- [Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin) - Codex Dream Skin
 - [a6216abcd/K-UI](https://github.com/a6216abcd/K-UI) - 
 - [lxh77721/k12-reg](https://github.com/lxh77721/k12-reg) - 多线程全自动注册free 强上K12空间 gmail版
 - [XCQ0607/lxserver](https://github.com/XCQ0607/lxserver) - LX Music 数据同步服务端，同时支持了部分lx-music-desktop的网页端实现。
