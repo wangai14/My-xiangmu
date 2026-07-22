@@ -194,6 +194,7 @@
 
 ## others 
 
+- [akudamatata/Solara](https://github.com/akudamatata/Solara) - 一个极简风格的基于免费API的音乐播放器
 - [Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin) - Codex Dream Skin
 - [a6216abcd/K-UI](https://github.com/a6216abcd/K-UI) - 
 - [lxh77721/k12-reg](https://github.com/lxh77721/k12-reg) - 多线程全自动注册free 强上K12空间 gmail版
