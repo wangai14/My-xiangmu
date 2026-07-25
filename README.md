@@ -83,6 +83,7 @@
 
 ## JavaScript 
 
+- [XxHuberrr/Mineradio](https://github.com/XxHuberrr/Mineradio) - 一款以电影镜头、粒子视觉和歌词舞台为核心的沉浸式音乐播放器。
 - [akudamatata/Solara](https://github.com/akudamatata/Solara) - 一个极简风格的基于免费API的音乐播放器
 - [Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin) - Codex Dream Skin
 - [7Sageer/sublink-worker](https://github.com/7Sageer/sublink-worker) - One Worker, All Subscriptions
@@ -152,7 +153,7 @@
 - [Keduoli03/Cloudflare-Random-Image](https://github.com/Keduoli03/Cloudflare-Random-Image) - 使用 Cloudflare 规则实现的不限请求次数的随机图片 API。
 - [GakkiNoOne/hajimi-king](https://github.com/GakkiNoOne/hajimi-king) - 人人都是哈基米大王
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-- [jiji262/douyin-downloader](https://github.com/jiji262/douyin-downloader) - A practical Douyin downloader for both single-item and profile batch downloads, with progress display, retries, SQLite deduplication, and browser fallback support. 抖音批量下载工具，去水印，支持视频、图集、合集、音乐(原声)。免费！免费
+- [jiji262/douyin-downloader](https://github.com/jiji262/douyin-downloader) - A practical Douyin downloader for both single-item and profile batch downloads, with progress display, retries, SQLite deduplication, and browser fallback support. 抖音批量下载工具，去水印，支持视频、图集、合集、音乐(原声)。
 - [Johnserf-Seed/TikTokDownload](https://github.com/Johnserf-Seed/TikTokDownload) - 抖音去水印批量下载用户主页作品、喜欢、收藏、图文、音频
 - [NeitherCandiDa/QL_TimingScript](https://github.com/NeitherCandiDa/QL_TimingScript) - 青龙面板脚本  微信每日早安推送✅ 好游快爆✅ 品赞代理✅ 哈啰✅ 中国移动云盘✅滴滴出行✅同程旅行✅浓五的酒馆✅顺丰速运✅OPPO商城✅
 - [wangai14/cf2dns](https://github.com/wangai14/cf2dns) - cf2dns宝塔插件版
