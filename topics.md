@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [agent](#agent)
 - [ai](#ai)
 - [android](#android)
 - [api](#api)
@@ -60,6 +61,10 @@
 - [web](#web)
 - [windows](#windows)
 - [wordpress](#wordpress)
+
+## agent 
+
+- [agentscope-ai/QwenPaw](https://github.com/agentscope-ai/QwenPaw) - Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.
 
 ## ai 
 
