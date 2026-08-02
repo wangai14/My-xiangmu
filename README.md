@@ -83,6 +83,7 @@
 
 ## JavaScript 
 
+- [jy02739244/iori-nav](https://github.com/jy02739244/iori-nav) - 一个优雅的书签收藏与分享平台，基于Cloudflare Workers构建
 - [XxHuberrr/Mineradio](https://github.com/XxHuberrr/Mineradio) - 一款以电影镜头、粒子视觉和歌词舞台为核心的沉浸式音乐播放器。
 - [akudamatata/Solara](https://github.com/akudamatata/Solara) - 一个极简风格的基于免费API的音乐播放器
 - [Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin) - Codex Dream Skin
