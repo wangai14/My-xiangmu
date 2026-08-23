@@ -22,6 +22,7 @@
 - [django](#django)
 - [docker](#docker)
 - [documentation](#documentation)
+- [dsh-plugin](#dsh-plugin)
 - [education](#education)
 - [electron](#electron)
 - [fastapi](#fastapi)
@@ -124,7 +125,7 @@
 
 ## design 
 
-- [everfu/hexo-theme-solitude](https://github.com/everfu/hexo-theme-solitude) - 一款设计师风格的 Hexo 主题，支持懒加载、PWA、Latex以及多种评论系统。
+- [everfu/Solitude](https://github.com/everfu/Solitude) - 一款设计师风格的 Hexo 主题，支持懒加载、PWA、Latex以及多种评论系统。
 
 ## django 
 
@@ -139,6 +140,10 @@
 ## documentation 
 
 - [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) - Free domain registration and practical DNS learning resources for everyone.
+
+## dsh-plugin 
+
+- [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket: The Ultimate Image Uploader for Efficient Creators. Supports Obsidian, Typora, VS Code etc. and 60+ image hosting services  (S3, GitHub, Cloudflare R2, Imgur, Aliyun OSS...). Paste, upload, d
 
 ## education 
 
@@ -341,7 +346,7 @@
 
 ## pwa 
 
-- [everfu/hexo-theme-solitude](https://github.com/everfu/hexo-theme-solitude) - 一款设计师风格的 Hexo 主题，支持懒加载、PWA、Latex以及多种评论系统。
+- [everfu/Solitude](https://github.com/everfu/Solitude) - 一款设计师风格的 Hexo 主题，支持懒加载、PWA、Latex以及多种评论系统。
 
 ## python 
 
