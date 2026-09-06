@@ -105,7 +105,6 @@
 - [maillab/cloud-mail](https://github.com/maillab/cloud-mail) - A Cloudflare-based email service  | 基于 Cloudflare 的邮箱服务  | Cloudflare Email 邮箱 Mail
 - [bestZwei/LibreWatermark](https://github.com/bestZwei/LibreWatermark) - AIChatBot生成前端创意项目——文本盲水印工具
 - [LibreSpark/LibreTTS](https://github.com/LibreSpark/LibreTTS) - TTS-文本转语音/文本转语音前端，兼容OpenAI、EdgeTTS等接口
-- [LibreSpark/LibreTV](https://github.com/LibreSpark/LibreTV) - 一分钟搭建影视站，支持Vercel/Docker等部署方式
 - [cmliu/CF-Workers-SUB](https://github.com/cmliu/CF-Workers-SUB) - 这个是一个通过 Cloudflare Workers 搭建，将你任意节点与多个订阅汇聚成专属于你的订阅链接
 - [zjk2017/ArcadiaScriptPublic](https://github.com/zjk2017/ArcadiaScriptPublic) - 青龙脚本库& Issues接投稿 天瑞地安|移动云盘|爱奇艺|奇瑞|金山小程序打卡|雪花|节卡|厚工坊|屈臣氏|掌上瓯海积分|上啥班|永辉|丽影云街|杜蕾斯会员中心|一点万象|所有女生|途虎|沪碳行签到|钉钉ai签到领算粒|哪吒汽车|新战马能量星球|pp停车|桃色|江铃智行|smart+|统一不助力|活力伊利库存|沪上阿姨|华润通|商战|上海宝山|叮当快药py310|品赞代理|爷爷不泡茶|青碳行|
 - [ggvip520/CF-Workers-SUB](https://github.com/ggvip520/CF-Workers-SUB) - 这个是一个通过 Cloudflare Workers 搭建，将你任意节点与多个订阅汇聚成专属于你的订阅链接
@@ -212,6 +211,7 @@
 - [katelya77/KatelyaTV](https://github.com/katelya77/KatelyaTV) - 一个基于MoonTV(LunaTV)二次开发的项目。新项目：https://github.com/Decohererk/DecoTV
 - [djteang/OrangeTV](https://github.com/djteang/OrangeTV) - 本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源
 - [666zmy/MoonTV](https://github.com/666zmy/MoonTV) - 
+- [LibreSpark/LibreTV](https://github.com/LibreSpark/LibreTV) - 一分钟搭建影视站，支持Docker等部署方式
 - [beilunyang/moepush](https://github.com/beilunyang/moepush) - 一个基于 NextJS + Cloudflare 技术栈构建的可爱消息推送服务, 支持多种消息推送渠道✨
 - [amclubs/newsnow](https://github.com/amclubs/newsnow) - 通过Cloudflare免费部署优雅地阅读实时热门新闻 Elegant reading of real-time and hottest news
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
