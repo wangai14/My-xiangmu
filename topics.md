@@ -40,6 +40,7 @@
 - [mcp](#mcp)
 - [music](#music)
 - [mysql](#mysql)
+- [nextjs](#nextjs)
 - [openai](#openai)
 - [others](#others)
 - [php](#php)
@@ -217,6 +218,10 @@
 ## mysql 
 
 - [Baiyuetribe/kamiFaka](https://github.com/Baiyuetribe/kamiFaka) - 一款基于VUE3.0的高颜值卡密发卡系统，特别适合虚拟商品、知识付费等。
+
+## nextjs 
+
+- [LibreSpark/LibreTV](https://github.com/LibreSpark/LibreTV) - 一分钟搭建影视站，支持Docker等部署方式
 
 ## openai 
 
