@@ -86,7 +86,7 @@
 
 - [cunzhangcrypto/fanwan](https://github.com/cunzhangcrypto/fanwan) - 🍚 没得饭吃啷个办？先把饭碗儿摆出来嘛。一个有点土、有点好耍的开源在线饭碗儿，摆个碗、混口饭，顺便看看哪个兄弟伙最耿直。
 - [jy02739244/iori-nav](https://github.com/jy02739244/iori-nav) - 一个优雅的书签收藏与分享平台，基于Cloudflare Workers构建
-- [XxHuberrr/Mineradio](https://github.com/XxHuberrr/Mineradio) - 一款以电影镜头、粒子视觉和歌词舞台为核心的沉浸式音乐播放器。
+- [XxHuberrr/Mineradio-paused](https://github.com/XxHuberrr/Mineradio-paused) - 一款以电影镜头、粒子视觉和歌词舞台为核心的沉浸式音乐播放器。
 - [akudamatata/Solara](https://github.com/akudamatata/Solara) - 一个极简风格的基于免费API的音乐播放器
 - [Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin) - Codex Dream Skin
 - [7Sageer/sublink-worker](https://github.com/7Sageer/sublink-worker) - One Worker, All Subscriptions
@@ -154,6 +154,11 @@
 
 ## Python 
 
+- [sosoveooo-bit/tiktok_ads_monitor](https://github.com/sosoveooo-bit/tiktok_ads_monitor) - TikTok Ads data monitoring, analysis, and campaign optimization dashboard
+- [sosoveooo-bit/sosove-creator-outreach-panel](https://github.com/sosoveooo-bit/sosove-creator-outreach-panel) - Japan-focused Instagram and TikTok creator outreach panel
+- [sosoveooo-bit/creator-outreach-desk](https://github.com/sosoveooo-bit/creator-outreach-desk) - Local-first Instagram & TikTok creator outreach desk for the Japan market: candidate pool, CSV import/export, public-search connectors, Japanese DM copy drafting, and partnership/ROI tracking.
+- [sosoveooo-bit/giikin_crawler](https://github.com/sosoveooo-bit/giikin_crawler) - Local Giikin order statistics crawler with family-level sync, checkpointing, and integrity verification
+- [sosoveooo-bit/landing-ad-title-generator](https://github.com/sosoveooo-bit/landing-ad-title-generator) - 输入商品落地页链接，自动分析产品事实，并为 Google / TikTok / Facebook / Snapchat / LINE 生成平台化广告标题、Facebook 长文案与话题标签（FastAPI + 原生前端）
 - [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，
 - [Keduoli03/Cloudflare-Random-Image](https://github.com/Keduoli03/Cloudflare-Random-Image) - 使用 Cloudflare 规则实现的不限请求次数的随机图片 API。
 - [GakkiNoOne/hajimi-king](https://github.com/GakkiNoOne/hajimi-king) - 人人都是哈基米大王
