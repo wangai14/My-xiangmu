@@ -240,6 +240,7 @@
 
 ## others 
 
+- [slobys/telegram-group-manager](https://github.com/slobys/telegram-group-manager) - GroupGuard: self-hosted Chinese Telegram group moderation, points, schedules, optional OCR
 - [PAICNI/CFNext](https://github.com/PAICNI/CFNext) - CFNext —— 部署在 Cloudflare Workers / Pages 的多功能代理订阅管理面板
 - [OpenListTeam/OpenList-Worker](https://github.com/OpenListTeam/OpenList-Worker) - Service Worker Backend for OpenList
 - [hezhanleiok/gate](https://github.com/hezhanleiok/gate) - 
