@@ -132,7 +132,6 @@
 ## Others 
 
 - [helloyangy/chatgpt2api-Tutorial](https://github.com/helloyangy/chatgpt2api-Tutorial) - chatgpt2api反代gpt-image-2画图大模型，免费使用效果强大
-- [byJoey/cfnew](https://github.com/byJoey/cfnew) - 
 - [msechen/script](https://github.com/msechen/script) - 偷撸
 - [mmmdbybyd/Xray-809](https://github.com/mmmdbybyd/Xray-809) - 可用于联通809免流的Xray核心
 - [iloldeGitHub/Mianliu-809](https://github.com/iloldeGitHub/Mianliu-809) - 关于最近的手机电视809免流
@@ -156,6 +155,7 @@
 - [hezhanleiok/gate](https://github.com/hezhanleiok/gate) - 
 - [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，
 - [Keduoli03/Cloudflare-Random-Image](https://github.com/Keduoli03/Cloudflare-Random-Image) - 使用 Cloudflare 规则实现的不限请求次数的随机图片 API。
+- [byJoey/cfnew](https://github.com/byJoey/cfnew) - 
 - [GakkiNoOne/hajimi-king](https://github.com/GakkiNoOne/hajimi-king) - 人人都是哈基米大王
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [jiji262/douyin-downloader](https://github.com/jiji262/douyin-downloader) - A practical Douyin downloader for both single-item and profile batch downloads, with progress display, retries, SQLite deduplication, and browser fallback support. 抖音批量下载工具，去水印，支持视频、图集、合集、音乐(原声)。
