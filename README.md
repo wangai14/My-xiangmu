@@ -23,7 +23,6 @@
 - [Rust](#rust)
 - [Shell](#shell)
 - [Stylus](#stylus)
-- [Svelte](#svelte)
 - [TypeScript](#typescript)
 - [Vue](#vue)
 
@@ -74,7 +73,6 @@
 - [coracoo/DockPorts](https://github.com/coracoo/DockPorts) - 一个现代化的Docker容器端口监控和可视化工具，帮助您轻松管理和监控NAS或服务器上的端口使用情况。
 - [wttAndroid/web-resume-resume](https://github.com/wttAndroid/web-resume-resume) - HTML+CSS+JS前端 web个人网站web网页(多页面) Web前端个人网站，网页站模版
 - [wangai14/solitude-](https://github.com/wangai14/solitude-) - ✨solitude主题搭建，模仿安之鱼主题二次开发，本人前来操作使用https://solitude-ecru.vercel.app
-- [afoim/long_link_gen](https://github.com/afoim/long_link_gen) - 一个长链接生成器
 - [cf-pages/Telegraph-Image](https://github.com/cf-pages/Telegraph-Image) - Image Hosting solution, Flickr/imgur alternative, make it easy for users to share their images. Using Cloudflare Pages and Telegraph.
 - [LikoDeng/Mi_Project](https://github.com/LikoDeng/Mi_Project) - 用HTML+CSS实现小米商城主页面的搭建
 
@@ -104,7 +102,7 @@
 - [pot-app/pot-desktop](https://github.com/pot-app/pot-desktop) - 🌈一个跨平台的划词翻译和OCR软件 | A cross-platform software for text translation and recognition.
 - [topabomb/marktext-specialedition](https://github.com/topabomb/marktext-specialedition) - marktext0.17.1分叉的中文特别版
 - [slobys/sublink-worker](https://github.com/slobys/sublink-worker) - 无需服务器，一键部署，快速使用自建节点分享URL进行订阅转换，提供灵活的自定义选项，支持SingBox/Clash/V2Ray/Xray
-- [maillab/cloud-mail](https://github.com/maillab/cloud-mail) - A Cloudflare-based email service  | 基于 Cloudflare 的邮箱服务  | Cloudflare Email 邮箱 Mail
+- [maillab/cloud-mail](https://github.com/maillab/cloud-mail) - An all-in-one email service platform powered by Cloudflare  | 基于 Cloudflare 的一站式邮箱服务平台  | Cloudflare Email 邮箱 Mail
 - [bestZwei/LibreWatermark](https://github.com/bestZwei/LibreWatermark) - AIChatBot生成前端创意项目——文本盲水印工具
 - [cmliu/CF-Workers-SUB](https://github.com/cmliu/CF-Workers-SUB) - 这个是一个通过 Cloudflare Workers 搭建，将你任意节点与多个订阅汇聚成专属于你的订阅链接
 - [zjk2017/ArcadiaScriptPublic](https://github.com/zjk2017/ArcadiaScriptPublic) - 青龙脚本库& Issues接投稿 天瑞地安|移动云盘|爱奇艺|奇瑞|金山小程序打卡|雪花|节卡|厚工坊|屈臣氏|掌上瓯海积分|上啥班|永辉|丽影云街|杜蕾斯会员中心|一点万象|所有女生|途虎|沪碳行签到|钉钉ai签到领算粒|哪吒汽车|新战马能量星球|pp停车|桃色|江铃智行|smart+|统一不助力|活力伊利库存|沪上阿姨|华润通|商战|上海宝山|叮当快药py310|品赞代理|爷爷不泡茶|青碳行|
@@ -197,10 +195,6 @@
 
 - [everfu/hexo-theme-solitude](https://github.com/everfu/hexo-theme-solitude) - A beautiful, powerful, and efficient Hexo theme developed by everfu.
 - [anzhiyu-c/hexo-theme-anzhiyu](https://github.com/anzhiyu-c/hexo-theme-anzhiyu) - 安知鱼主题，这是一个简洁美丽的hexo主题。
-
-## Svelte 
-
-- [afoim/fuwari](https://github.com/afoim/fuwari) - 魔改版Fuwari，自用博客
 
 ## TypeScript 
 
