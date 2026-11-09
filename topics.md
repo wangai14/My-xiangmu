@@ -264,7 +264,7 @@
 - [sosoveooo-bit/sosove-creator-outreach-panel](https://github.com/sosoveooo-bit/sosove-creator-outreach-panel) - Japan-focused Instagram and TikTok creator outreach panel
 - [sosoveooo-bit/giikin_crawler](https://github.com/sosoveooo-bit/giikin_crawler) - Local Giikin order statistics crawler with family-level sync, checkpointing, and integrity verification
 - [jy02739244/iori-nav](https://github.com/jy02739244/iori-nav) - 一个优雅的书签收藏与分享平台，基于Cloudflare Workers构建
-- [XxHuberrr/Mineradio-paused](https://github.com/XxHuberrr/Mineradio-paused) - 一款以电影镜头、粒子视觉和歌词舞台为核心的沉浸式音乐播放器。
+- [XxHuberrr/Mineradio-paused](https://github.com/XxHuberrr/Mineradio-paused) - Mineradio 官网：mineradio.cn ｜ 一款以电影镜头、粒子视觉和歌词舞台为核心的沉浸式音乐播放器。
 - [akudamatata/Solara](https://github.com/akudamatata/Solara) - 一个极简风格的基于免费API的音乐播放器
 - [Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin) - Codex Dream Skin
 - [a6216abcd/K-UI](https://github.com/a6216abcd/K-UI) - 
