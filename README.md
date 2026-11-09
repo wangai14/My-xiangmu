@@ -89,7 +89,7 @@
 - [sosoveooo-bit/sosove-x-posts](https://github.com/sosoveooo-bit/sosove-x-posts) - SOSOVE Japanese X post drafting and batch-publishing skill
 - [cunzhangcrypto/fanwan](https://github.com/cunzhangcrypto/fanwan) - 🍚 没得饭吃啷个办？先把饭碗儿摆出来嘛。一个有点土、有点好耍的开源在线饭碗儿，摆个碗、混口饭，顺便看看哪个兄弟伙最耿直。
 - [jy02739244/iori-nav](https://github.com/jy02739244/iori-nav) - 一个优雅的书签收藏与分享平台，基于Cloudflare Workers构建
-- [XxHuberrr/Mineradio-paused](https://github.com/XxHuberrr/Mineradio-paused) - 一款以电影镜头、粒子视觉和歌词舞台为核心的沉浸式音乐播放器。
+- [XxHuberrr/Mineradio-paused](https://github.com/XxHuberrr/Mineradio-paused) - Mineradio 官网：mineradio.cn ｜ 一款以电影镜头、粒子视觉和歌词舞台为核心的沉浸式音乐播放器。
 - [akudamatata/Solara](https://github.com/akudamatata/Solara) - 一个极简风格的基于免费API的音乐播放器
 - [Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin) - Codex Dream Skin
 - [7Sageer/sublink-worker](https://github.com/7Sageer/sublink-worker) - One Worker, All Subscriptions
