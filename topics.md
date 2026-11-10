@@ -255,7 +255,7 @@
 
 - [slobys/telegram-group-manager](https://github.com/slobys/telegram-group-manager) - GroupGuard: self-hosted Chinese Telegram group moderation, points, schedules, optional OCR
 - [PAICNI/CFNext](https://github.com/PAICNI/CFNext) - CFNext —— 部署在 Cloudflare Workers / Pages 的多功能代理订阅管理面板
-- [OpenListTeam/OpenList-Worker](https://github.com/OpenListTeam/OpenList-Worker) - Service Worker Backend for OpenList
+- [OpenListTeam/OpenList-Worker](https://github.com/OpenListTeam/OpenList-Worker) - Service Worker for OpenList
 - [hezhanleiok/gate](https://github.com/hezhanleiok/gate) - 
 - [sosoveooo-bit/japanese-copy-checker](https://github.com/sosoveooo-bit/japanese-copy-checker) - 
 - [sosoveooo-bit/sosove-shopline-dashboard](https://github.com/sosoveooo-bit/sosove-shopline-dashboard) - SOSOVE Shopline monitoring dashboard
