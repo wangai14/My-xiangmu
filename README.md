@@ -84,7 +84,6 @@
 ## JavaScript 
 
 - [MarSeventh/CloudFlare-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed) - 🏖️ A serverless, open-source file hosting solution built on Cloudflare. Supports image hosting, secure file storage, and personal cloud drive capabilities.
-- [PAICNI/CFNext](https://github.com/PAICNI/CFNext) - CFNext —— 部署在 Cloudflare Workers / Pages 的多功能代理订阅管理面板
 - [sosoveooo-bit/japanese-copy-checker](https://github.com/sosoveooo-bit/japanese-copy-checker) - 
 - [sosoveooo-bit/sosove-x-posts](https://github.com/sosoveooo-bit/sosove-x-posts) - SOSOVE Japanese X post drafting and batch-publishing skill
 - [cunzhangcrypto/fanwan](https://github.com/cunzhangcrypto/fanwan) - 🍚 没得饭吃啷个办？先把饭碗儿摆出来嘛。一个有点土、有点好耍的开源在线饭碗儿，摆个碗、混口饭，顺便看看哪个兄弟伙最耿直。
@@ -133,6 +132,7 @@
 
 ## Others 
 
+- [PAICNI/CFNext](https://github.com/PAICNI/CFNext) - CFNext —— 部署在 Cloudflare Workers / Pages 的多功能代理订阅管理面板
 - [helloyangy/chatgpt2api-Tutorial](https://github.com/helloyangy/chatgpt2api-Tutorial) - chatgpt2api反代gpt-image-2画图大模型，免费使用效果强大
 - [msechen/script](https://github.com/msechen/script) - 偷撸
 - [mmmdbybyd/Xray-809](https://github.com/mmmdbybyd/Xray-809) - 可用于联通809免流的Xray核心
