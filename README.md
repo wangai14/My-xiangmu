@@ -163,7 +163,6 @@
 - [sosoveooo-bit/giikin_crawler](https://github.com/sosoveooo-bit/giikin_crawler) - Local Giikin order statistics crawler with family-level sync, checkpointing, and integrity verification
 - [sosoveooo-bit/landing-ad-title-generator](https://github.com/sosoveooo-bit/landing-ad-title-generator) - 输入商品落地页链接，自动分析产品事实，并为 Google / TikTok / Facebook / Snapchat / LINE 生成平台化广告标题、Facebook 长文案与话题标签（FastAPI + 原生前端）
 - [agentscope-ai/QwenPaw](https://github.com/agentscope-ai/QwenPaw) - Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.
-- [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, web search, MCP & smart alerts.🎯 告别信息过载，你的 AI     舆情监控助手与热点筛选工具！聚合多平台热点 + RSS 订阅 + 定时联网搜索，支持关键词与 AI 智能筛选。AI 翻译 + AI 分析简报
 - [Keduoli03/Cloudflare-Random-Image](https://github.com/Keduoli03/Cloudflare-Random-Image) - 使用 Cloudflare 规则实现的不限请求次数的随机图片 API。
 - [byJoey/cfnew](https://github.com/byJoey/cfnew) - 
 - [GakkiNoOne/hajimi-king](https://github.com/GakkiNoOne/hajimi-king) - 人人都是哈基米大王
@@ -215,6 +214,7 @@
 
 - [OpenListTeam/OpenList-Worker](https://github.com/OpenListTeam/OpenList-Worker) - Service Worker for OpenList
 - [lxh77721/k12-reg](https://github.com/lxh77721/k12-reg) - 多线程全自动注册free 强上K12空间 gmail版
+- [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, web search, MCP & smart alerts.🎯 告别信息过载，你的 AI     舆情监控助手与热点筛选工具！聚合多平台热点 + RSS 订阅 + 定时联网搜索，支持关键词与 AI 智能筛选。AI 翻译 + AI 分析简报
 - [Decohererk/DecoTV](https://github.com/Decohererk/DecoTV) - 基于最新版LunaTV二次开发的一个开箱即用的、跨平台的影视聚合播放站。【原KatelyaTV】
 - [wangai14/KTV](https://github.com/wangai14/KTV) - 一个基于MoonTV(LunaTV)二次开发的项目。
 - [MoonTechLab/LunaTV](https://github.com/MoonTechLab/LunaTV) - 本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源
